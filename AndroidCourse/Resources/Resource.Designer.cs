@@ -26,6 +26,1528 @@ namespace AndroidCourse
 		
 		public static void UpdateIdValues()
 		{
+			global::CharadesLibrary.Resource.Animation.abc_fade_in = global::AndroidCourse.Resource.Animation.abc_fade_in;
+			global::CharadesLibrary.Resource.Animation.abc_fade_out = global::AndroidCourse.Resource.Animation.abc_fade_out;
+			global::CharadesLibrary.Resource.Animation.abc_grow_fade_in_from_bottom = global::AndroidCourse.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::CharadesLibrary.Resource.Animation.abc_popup_enter = global::AndroidCourse.Resource.Animation.abc_popup_enter;
+			global::CharadesLibrary.Resource.Animation.abc_popup_exit = global::AndroidCourse.Resource.Animation.abc_popup_exit;
+			global::CharadesLibrary.Resource.Animation.abc_shrink_fade_out_from_bottom = global::AndroidCourse.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::CharadesLibrary.Resource.Animation.abc_slide_in_bottom = global::AndroidCourse.Resource.Animation.abc_slide_in_bottom;
+			global::CharadesLibrary.Resource.Animation.abc_slide_in_top = global::AndroidCourse.Resource.Animation.abc_slide_in_top;
+			global::CharadesLibrary.Resource.Animation.abc_slide_out_bottom = global::AndroidCourse.Resource.Animation.abc_slide_out_bottom;
+			global::CharadesLibrary.Resource.Animation.abc_slide_out_top = global::AndroidCourse.Resource.Animation.abc_slide_out_top;
+			global::CharadesLibrary.Resource.Animation.tooltip_enter = global::AndroidCourse.Resource.Animation.tooltip_enter;
+			global::CharadesLibrary.Resource.Animation.tooltip_exit = global::AndroidCourse.Resource.Animation.tooltip_exit;
+			global::CharadesLibrary.Resource.Attribute.actionBarDivider = global::AndroidCourse.Resource.Attribute.actionBarDivider;
+			global::CharadesLibrary.Resource.Attribute.actionBarItemBackground = global::AndroidCourse.Resource.Attribute.actionBarItemBackground;
+			global::CharadesLibrary.Resource.Attribute.actionBarPopupTheme = global::AndroidCourse.Resource.Attribute.actionBarPopupTheme;
+			global::CharadesLibrary.Resource.Attribute.actionBarSize = global::AndroidCourse.Resource.Attribute.actionBarSize;
+			global::CharadesLibrary.Resource.Attribute.actionBarSplitStyle = global::AndroidCourse.Resource.Attribute.actionBarSplitStyle;
+			global::CharadesLibrary.Resource.Attribute.actionBarStyle = global::AndroidCourse.Resource.Attribute.actionBarStyle;
+			global::CharadesLibrary.Resource.Attribute.actionBarTabBarStyle = global::AndroidCourse.Resource.Attribute.actionBarTabBarStyle;
+			global::CharadesLibrary.Resource.Attribute.actionBarTabStyle = global::AndroidCourse.Resource.Attribute.actionBarTabStyle;
+			global::CharadesLibrary.Resource.Attribute.actionBarTabTextStyle = global::AndroidCourse.Resource.Attribute.actionBarTabTextStyle;
+			global::CharadesLibrary.Resource.Attribute.actionBarTheme = global::AndroidCourse.Resource.Attribute.actionBarTheme;
+			global::CharadesLibrary.Resource.Attribute.actionBarWidgetTheme = global::AndroidCourse.Resource.Attribute.actionBarWidgetTheme;
+			global::CharadesLibrary.Resource.Attribute.actionButtonStyle = global::AndroidCourse.Resource.Attribute.actionButtonStyle;
+			global::CharadesLibrary.Resource.Attribute.actionDropDownStyle = global::AndroidCourse.Resource.Attribute.actionDropDownStyle;
+			global::CharadesLibrary.Resource.Attribute.actionLayout = global::AndroidCourse.Resource.Attribute.actionLayout;
+			global::CharadesLibrary.Resource.Attribute.actionMenuTextAppearance = global::AndroidCourse.Resource.Attribute.actionMenuTextAppearance;
+			global::CharadesLibrary.Resource.Attribute.actionMenuTextColor = global::AndroidCourse.Resource.Attribute.actionMenuTextColor;
+			global::CharadesLibrary.Resource.Attribute.actionModeBackground = global::AndroidCourse.Resource.Attribute.actionModeBackground;
+			global::CharadesLibrary.Resource.Attribute.actionModeCloseButtonStyle = global::AndroidCourse.Resource.Attribute.actionModeCloseButtonStyle;
+			global::CharadesLibrary.Resource.Attribute.actionModeCloseDrawable = global::AndroidCourse.Resource.Attribute.actionModeCloseDrawable;
+			global::CharadesLibrary.Resource.Attribute.actionModeCopyDrawable = global::AndroidCourse.Resource.Attribute.actionModeCopyDrawable;
+			global::CharadesLibrary.Resource.Attribute.actionModeCutDrawable = global::AndroidCourse.Resource.Attribute.actionModeCutDrawable;
+			global::CharadesLibrary.Resource.Attribute.actionModeFindDrawable = global::AndroidCourse.Resource.Attribute.actionModeFindDrawable;
+			global::CharadesLibrary.Resource.Attribute.actionModePasteDrawable = global::AndroidCourse.Resource.Attribute.actionModePasteDrawable;
+			global::CharadesLibrary.Resource.Attribute.actionModePopupWindowStyle = global::AndroidCourse.Resource.Attribute.actionModePopupWindowStyle;
+			global::CharadesLibrary.Resource.Attribute.actionModeSelectAllDrawable = global::AndroidCourse.Resource.Attribute.actionModeSelectAllDrawable;
+			global::CharadesLibrary.Resource.Attribute.actionModeShareDrawable = global::AndroidCourse.Resource.Attribute.actionModeShareDrawable;
+			global::CharadesLibrary.Resource.Attribute.actionModeSplitBackground = global::AndroidCourse.Resource.Attribute.actionModeSplitBackground;
+			global::CharadesLibrary.Resource.Attribute.actionModeStyle = global::AndroidCourse.Resource.Attribute.actionModeStyle;
+			global::CharadesLibrary.Resource.Attribute.actionModeWebSearchDrawable = global::AndroidCourse.Resource.Attribute.actionModeWebSearchDrawable;
+			global::CharadesLibrary.Resource.Attribute.actionOverflowButtonStyle = global::AndroidCourse.Resource.Attribute.actionOverflowButtonStyle;
+			global::CharadesLibrary.Resource.Attribute.actionOverflowMenuStyle = global::AndroidCourse.Resource.Attribute.actionOverflowMenuStyle;
+			global::CharadesLibrary.Resource.Attribute.actionProviderClass = global::AndroidCourse.Resource.Attribute.actionProviderClass;
+			global::CharadesLibrary.Resource.Attribute.actionViewClass = global::AndroidCourse.Resource.Attribute.actionViewClass;
+			global::CharadesLibrary.Resource.Attribute.activityChooserViewStyle = global::AndroidCourse.Resource.Attribute.activityChooserViewStyle;
+			global::CharadesLibrary.Resource.Attribute.alertDialogButtonGroupStyle = global::AndroidCourse.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::CharadesLibrary.Resource.Attribute.alertDialogCenterButtons = global::AndroidCourse.Resource.Attribute.alertDialogCenterButtons;
+			global::CharadesLibrary.Resource.Attribute.alertDialogStyle = global::AndroidCourse.Resource.Attribute.alertDialogStyle;
+			global::CharadesLibrary.Resource.Attribute.alertDialogTheme = global::AndroidCourse.Resource.Attribute.alertDialogTheme;
+			global::CharadesLibrary.Resource.Attribute.allowStacking = global::AndroidCourse.Resource.Attribute.allowStacking;
+			global::CharadesLibrary.Resource.Attribute.alpha = global::AndroidCourse.Resource.Attribute.alpha;
+			global::CharadesLibrary.Resource.Attribute.alphabeticModifiers = global::AndroidCourse.Resource.Attribute.alphabeticModifiers;
+			global::CharadesLibrary.Resource.Attribute.arrowHeadLength = global::AndroidCourse.Resource.Attribute.arrowHeadLength;
+			global::CharadesLibrary.Resource.Attribute.arrowShaftLength = global::AndroidCourse.Resource.Attribute.arrowShaftLength;
+			global::CharadesLibrary.Resource.Attribute.autoCompleteTextViewStyle = global::AndroidCourse.Resource.Attribute.autoCompleteTextViewStyle;
+			global::CharadesLibrary.Resource.Attribute.autoSizeMaxTextSize = global::AndroidCourse.Resource.Attribute.autoSizeMaxTextSize;
+			global::CharadesLibrary.Resource.Attribute.autoSizeMinTextSize = global::AndroidCourse.Resource.Attribute.autoSizeMinTextSize;
+			global::CharadesLibrary.Resource.Attribute.autoSizePresetSizes = global::AndroidCourse.Resource.Attribute.autoSizePresetSizes;
+			global::CharadesLibrary.Resource.Attribute.autoSizeStepGranularity = global::AndroidCourse.Resource.Attribute.autoSizeStepGranularity;
+			global::CharadesLibrary.Resource.Attribute.autoSizeTextType = global::AndroidCourse.Resource.Attribute.autoSizeTextType;
+			global::CharadesLibrary.Resource.Attribute.background = global::AndroidCourse.Resource.Attribute.background;
+			global::CharadesLibrary.Resource.Attribute.backgroundSplit = global::AndroidCourse.Resource.Attribute.backgroundSplit;
+			global::CharadesLibrary.Resource.Attribute.backgroundStacked = global::AndroidCourse.Resource.Attribute.backgroundStacked;
+			global::CharadesLibrary.Resource.Attribute.backgroundTint = global::AndroidCourse.Resource.Attribute.backgroundTint;
+			global::CharadesLibrary.Resource.Attribute.backgroundTintMode = global::AndroidCourse.Resource.Attribute.backgroundTintMode;
+			global::CharadesLibrary.Resource.Attribute.barLength = global::AndroidCourse.Resource.Attribute.barLength;
+			global::CharadesLibrary.Resource.Attribute.borderlessButtonStyle = global::AndroidCourse.Resource.Attribute.borderlessButtonStyle;
+			global::CharadesLibrary.Resource.Attribute.buttonBarButtonStyle = global::AndroidCourse.Resource.Attribute.buttonBarButtonStyle;
+			global::CharadesLibrary.Resource.Attribute.buttonBarNegativeButtonStyle = global::AndroidCourse.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::CharadesLibrary.Resource.Attribute.buttonBarNeutralButtonStyle = global::AndroidCourse.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::CharadesLibrary.Resource.Attribute.buttonBarPositiveButtonStyle = global::AndroidCourse.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::CharadesLibrary.Resource.Attribute.buttonBarStyle = global::AndroidCourse.Resource.Attribute.buttonBarStyle;
+			global::CharadesLibrary.Resource.Attribute.buttonGravity = global::AndroidCourse.Resource.Attribute.buttonGravity;
+			global::CharadesLibrary.Resource.Attribute.buttonPanelSideLayout = global::AndroidCourse.Resource.Attribute.buttonPanelSideLayout;
+			global::CharadesLibrary.Resource.Attribute.buttonStyle = global::AndroidCourse.Resource.Attribute.buttonStyle;
+			global::CharadesLibrary.Resource.Attribute.buttonStyleSmall = global::AndroidCourse.Resource.Attribute.buttonStyleSmall;
+			global::CharadesLibrary.Resource.Attribute.buttonTint = global::AndroidCourse.Resource.Attribute.buttonTint;
+			global::CharadesLibrary.Resource.Attribute.buttonTintMode = global::AndroidCourse.Resource.Attribute.buttonTintMode;
+			global::CharadesLibrary.Resource.Attribute.checkboxStyle = global::AndroidCourse.Resource.Attribute.checkboxStyle;
+			global::CharadesLibrary.Resource.Attribute.checkedTextViewStyle = global::AndroidCourse.Resource.Attribute.checkedTextViewStyle;
+			global::CharadesLibrary.Resource.Attribute.closeIcon = global::AndroidCourse.Resource.Attribute.closeIcon;
+			global::CharadesLibrary.Resource.Attribute.closeItemLayout = global::AndroidCourse.Resource.Attribute.closeItemLayout;
+			global::CharadesLibrary.Resource.Attribute.collapseContentDescription = global::AndroidCourse.Resource.Attribute.collapseContentDescription;
+			global::CharadesLibrary.Resource.Attribute.collapseIcon = global::AndroidCourse.Resource.Attribute.collapseIcon;
+			global::CharadesLibrary.Resource.Attribute.color = global::AndroidCourse.Resource.Attribute.color;
+			global::CharadesLibrary.Resource.Attribute.colorAccent = global::AndroidCourse.Resource.Attribute.colorAccent;
+			global::CharadesLibrary.Resource.Attribute.colorBackgroundFloating = global::AndroidCourse.Resource.Attribute.colorBackgroundFloating;
+			global::CharadesLibrary.Resource.Attribute.colorButtonNormal = global::AndroidCourse.Resource.Attribute.colorButtonNormal;
+			global::CharadesLibrary.Resource.Attribute.colorControlActivated = global::AndroidCourse.Resource.Attribute.colorControlActivated;
+			global::CharadesLibrary.Resource.Attribute.colorControlHighlight = global::AndroidCourse.Resource.Attribute.colorControlHighlight;
+			global::CharadesLibrary.Resource.Attribute.colorControlNormal = global::AndroidCourse.Resource.Attribute.colorControlNormal;
+			global::CharadesLibrary.Resource.Attribute.colorError = global::AndroidCourse.Resource.Attribute.colorError;
+			global::CharadesLibrary.Resource.Attribute.colorPrimary = global::AndroidCourse.Resource.Attribute.colorPrimary;
+			global::CharadesLibrary.Resource.Attribute.colorPrimaryDark = global::AndroidCourse.Resource.Attribute.colorPrimaryDark;
+			global::CharadesLibrary.Resource.Attribute.colorSwitchThumbNormal = global::AndroidCourse.Resource.Attribute.colorSwitchThumbNormal;
+			global::CharadesLibrary.Resource.Attribute.commitIcon = global::AndroidCourse.Resource.Attribute.commitIcon;
+			global::CharadesLibrary.Resource.Attribute.contentDescription = global::AndroidCourse.Resource.Attribute.contentDescription;
+			global::CharadesLibrary.Resource.Attribute.contentInsetEnd = global::AndroidCourse.Resource.Attribute.contentInsetEnd;
+			global::CharadesLibrary.Resource.Attribute.contentInsetEndWithActions = global::AndroidCourse.Resource.Attribute.contentInsetEndWithActions;
+			global::CharadesLibrary.Resource.Attribute.contentInsetLeft = global::AndroidCourse.Resource.Attribute.contentInsetLeft;
+			global::CharadesLibrary.Resource.Attribute.contentInsetRight = global::AndroidCourse.Resource.Attribute.contentInsetRight;
+			global::CharadesLibrary.Resource.Attribute.contentInsetStart = global::AndroidCourse.Resource.Attribute.contentInsetStart;
+			global::CharadesLibrary.Resource.Attribute.contentInsetStartWithNavigation = global::AndroidCourse.Resource.Attribute.contentInsetStartWithNavigation;
+			global::CharadesLibrary.Resource.Attribute.controlBackground = global::AndroidCourse.Resource.Attribute.controlBackground;
+			global::CharadesLibrary.Resource.Attribute.customNavigationLayout = global::AndroidCourse.Resource.Attribute.customNavigationLayout;
+			global::CharadesLibrary.Resource.Attribute.defaultQueryHint = global::AndroidCourse.Resource.Attribute.defaultQueryHint;
+			global::CharadesLibrary.Resource.Attribute.dialogPreferredPadding = global::AndroidCourse.Resource.Attribute.dialogPreferredPadding;
+			global::CharadesLibrary.Resource.Attribute.dialogTheme = global::AndroidCourse.Resource.Attribute.dialogTheme;
+			global::CharadesLibrary.Resource.Attribute.displayOptions = global::AndroidCourse.Resource.Attribute.displayOptions;
+			global::CharadesLibrary.Resource.Attribute.divider = global::AndroidCourse.Resource.Attribute.divider;
+			global::CharadesLibrary.Resource.Attribute.dividerHorizontal = global::AndroidCourse.Resource.Attribute.dividerHorizontal;
+			global::CharadesLibrary.Resource.Attribute.dividerPadding = global::AndroidCourse.Resource.Attribute.dividerPadding;
+			global::CharadesLibrary.Resource.Attribute.dividerVertical = global::AndroidCourse.Resource.Attribute.dividerVertical;
+			global::CharadesLibrary.Resource.Attribute.drawableSize = global::AndroidCourse.Resource.Attribute.drawableSize;
+			global::CharadesLibrary.Resource.Attribute.drawerArrowStyle = global::AndroidCourse.Resource.Attribute.drawerArrowStyle;
+			global::CharadesLibrary.Resource.Attribute.dropDownListViewStyle = global::AndroidCourse.Resource.Attribute.dropDownListViewStyle;
+			global::CharadesLibrary.Resource.Attribute.dropdownListPreferredItemHeight = global::AndroidCourse.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::CharadesLibrary.Resource.Attribute.editTextBackground = global::AndroidCourse.Resource.Attribute.editTextBackground;
+			global::CharadesLibrary.Resource.Attribute.editTextColor = global::AndroidCourse.Resource.Attribute.editTextColor;
+			global::CharadesLibrary.Resource.Attribute.editTextStyle = global::AndroidCourse.Resource.Attribute.editTextStyle;
+			global::CharadesLibrary.Resource.Attribute.elevation = global::AndroidCourse.Resource.Attribute.elevation;
+			global::CharadesLibrary.Resource.Attribute.expandActivityOverflowButtonDrawable = global::AndroidCourse.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::CharadesLibrary.Resource.Attribute.font = global::AndroidCourse.Resource.Attribute.font;
+			global::CharadesLibrary.Resource.Attribute.fontFamily = global::AndroidCourse.Resource.Attribute.fontFamily;
+			global::CharadesLibrary.Resource.Attribute.fontProviderAuthority = global::AndroidCourse.Resource.Attribute.fontProviderAuthority;
+			global::CharadesLibrary.Resource.Attribute.fontProviderCerts = global::AndroidCourse.Resource.Attribute.fontProviderCerts;
+			global::CharadesLibrary.Resource.Attribute.fontProviderFetchStrategy = global::AndroidCourse.Resource.Attribute.fontProviderFetchStrategy;
+			global::CharadesLibrary.Resource.Attribute.fontProviderFetchTimeout = global::AndroidCourse.Resource.Attribute.fontProviderFetchTimeout;
+			global::CharadesLibrary.Resource.Attribute.fontProviderPackage = global::AndroidCourse.Resource.Attribute.fontProviderPackage;
+			global::CharadesLibrary.Resource.Attribute.fontProviderQuery = global::AndroidCourse.Resource.Attribute.fontProviderQuery;
+			global::CharadesLibrary.Resource.Attribute.fontStyle = global::AndroidCourse.Resource.Attribute.fontStyle;
+			global::CharadesLibrary.Resource.Attribute.fontWeight = global::AndroidCourse.Resource.Attribute.fontWeight;
+			global::CharadesLibrary.Resource.Attribute.gapBetweenBars = global::AndroidCourse.Resource.Attribute.gapBetweenBars;
+			global::CharadesLibrary.Resource.Attribute.goIcon = global::AndroidCourse.Resource.Attribute.goIcon;
+			global::CharadesLibrary.Resource.Attribute.height = global::AndroidCourse.Resource.Attribute.height;
+			global::CharadesLibrary.Resource.Attribute.hideOnContentScroll = global::AndroidCourse.Resource.Attribute.hideOnContentScroll;
+			global::CharadesLibrary.Resource.Attribute.homeAsUpIndicator = global::AndroidCourse.Resource.Attribute.homeAsUpIndicator;
+			global::CharadesLibrary.Resource.Attribute.homeLayout = global::AndroidCourse.Resource.Attribute.homeLayout;
+			global::CharadesLibrary.Resource.Attribute.icon = global::AndroidCourse.Resource.Attribute.icon;
+			global::CharadesLibrary.Resource.Attribute.iconTint = global::AndroidCourse.Resource.Attribute.iconTint;
+			global::CharadesLibrary.Resource.Attribute.iconTintMode = global::AndroidCourse.Resource.Attribute.iconTintMode;
+			global::CharadesLibrary.Resource.Attribute.iconifiedByDefault = global::AndroidCourse.Resource.Attribute.iconifiedByDefault;
+			global::CharadesLibrary.Resource.Attribute.imageButtonStyle = global::AndroidCourse.Resource.Attribute.imageButtonStyle;
+			global::CharadesLibrary.Resource.Attribute.indeterminateProgressStyle = global::AndroidCourse.Resource.Attribute.indeterminateProgressStyle;
+			global::CharadesLibrary.Resource.Attribute.initialActivityCount = global::AndroidCourse.Resource.Attribute.initialActivityCount;
+			global::CharadesLibrary.Resource.Attribute.isLightTheme = global::AndroidCourse.Resource.Attribute.isLightTheme;
+			global::CharadesLibrary.Resource.Attribute.itemPadding = global::AndroidCourse.Resource.Attribute.itemPadding;
+			global::CharadesLibrary.Resource.Attribute.layout = global::AndroidCourse.Resource.Attribute.layout;
+			global::CharadesLibrary.Resource.Attribute.listChoiceBackgroundIndicator = global::AndroidCourse.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::CharadesLibrary.Resource.Attribute.listDividerAlertDialog = global::AndroidCourse.Resource.Attribute.listDividerAlertDialog;
+			global::CharadesLibrary.Resource.Attribute.listItemLayout = global::AndroidCourse.Resource.Attribute.listItemLayout;
+			global::CharadesLibrary.Resource.Attribute.listLayout = global::AndroidCourse.Resource.Attribute.listLayout;
+			global::CharadesLibrary.Resource.Attribute.listMenuViewStyle = global::AndroidCourse.Resource.Attribute.listMenuViewStyle;
+			global::CharadesLibrary.Resource.Attribute.listPopupWindowStyle = global::AndroidCourse.Resource.Attribute.listPopupWindowStyle;
+			global::CharadesLibrary.Resource.Attribute.listPreferredItemHeight = global::AndroidCourse.Resource.Attribute.listPreferredItemHeight;
+			global::CharadesLibrary.Resource.Attribute.listPreferredItemHeightLarge = global::AndroidCourse.Resource.Attribute.listPreferredItemHeightLarge;
+			global::CharadesLibrary.Resource.Attribute.listPreferredItemHeightSmall = global::AndroidCourse.Resource.Attribute.listPreferredItemHeightSmall;
+			global::CharadesLibrary.Resource.Attribute.listPreferredItemPaddingLeft = global::AndroidCourse.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::CharadesLibrary.Resource.Attribute.listPreferredItemPaddingRight = global::AndroidCourse.Resource.Attribute.listPreferredItemPaddingRight;
+			global::CharadesLibrary.Resource.Attribute.logo = global::AndroidCourse.Resource.Attribute.logo;
+			global::CharadesLibrary.Resource.Attribute.logoDescription = global::AndroidCourse.Resource.Attribute.logoDescription;
+			global::CharadesLibrary.Resource.Attribute.maxButtonHeight = global::AndroidCourse.Resource.Attribute.maxButtonHeight;
+			global::CharadesLibrary.Resource.Attribute.measureWithLargestChild = global::AndroidCourse.Resource.Attribute.measureWithLargestChild;
+			global::CharadesLibrary.Resource.Attribute.multiChoiceItemLayout = global::AndroidCourse.Resource.Attribute.multiChoiceItemLayout;
+			global::CharadesLibrary.Resource.Attribute.navigationContentDescription = global::AndroidCourse.Resource.Attribute.navigationContentDescription;
+			global::CharadesLibrary.Resource.Attribute.navigationIcon = global::AndroidCourse.Resource.Attribute.navigationIcon;
+			global::CharadesLibrary.Resource.Attribute.navigationMode = global::AndroidCourse.Resource.Attribute.navigationMode;
+			global::CharadesLibrary.Resource.Attribute.numericModifiers = global::AndroidCourse.Resource.Attribute.numericModifiers;
+			global::CharadesLibrary.Resource.Attribute.overlapAnchor = global::AndroidCourse.Resource.Attribute.overlapAnchor;
+			global::CharadesLibrary.Resource.Attribute.paddingBottomNoButtons = global::AndroidCourse.Resource.Attribute.paddingBottomNoButtons;
+			global::CharadesLibrary.Resource.Attribute.paddingEnd = global::AndroidCourse.Resource.Attribute.paddingEnd;
+			global::CharadesLibrary.Resource.Attribute.paddingStart = global::AndroidCourse.Resource.Attribute.paddingStart;
+			global::CharadesLibrary.Resource.Attribute.paddingTopNoTitle = global::AndroidCourse.Resource.Attribute.paddingTopNoTitle;
+			global::CharadesLibrary.Resource.Attribute.panelBackground = global::AndroidCourse.Resource.Attribute.panelBackground;
+			global::CharadesLibrary.Resource.Attribute.panelMenuListTheme = global::AndroidCourse.Resource.Attribute.panelMenuListTheme;
+			global::CharadesLibrary.Resource.Attribute.panelMenuListWidth = global::AndroidCourse.Resource.Attribute.panelMenuListWidth;
+			global::CharadesLibrary.Resource.Attribute.popupMenuStyle = global::AndroidCourse.Resource.Attribute.popupMenuStyle;
+			global::CharadesLibrary.Resource.Attribute.popupTheme = global::AndroidCourse.Resource.Attribute.popupTheme;
+			global::CharadesLibrary.Resource.Attribute.popupWindowStyle = global::AndroidCourse.Resource.Attribute.popupWindowStyle;
+			global::CharadesLibrary.Resource.Attribute.preserveIconSpacing = global::AndroidCourse.Resource.Attribute.preserveIconSpacing;
+			global::CharadesLibrary.Resource.Attribute.progressBarPadding = global::AndroidCourse.Resource.Attribute.progressBarPadding;
+			global::CharadesLibrary.Resource.Attribute.progressBarStyle = global::AndroidCourse.Resource.Attribute.progressBarStyle;
+			global::CharadesLibrary.Resource.Attribute.queryBackground = global::AndroidCourse.Resource.Attribute.queryBackground;
+			global::CharadesLibrary.Resource.Attribute.queryHint = global::AndroidCourse.Resource.Attribute.queryHint;
+			global::CharadesLibrary.Resource.Attribute.radioButtonStyle = global::AndroidCourse.Resource.Attribute.radioButtonStyle;
+			global::CharadesLibrary.Resource.Attribute.ratingBarStyle = global::AndroidCourse.Resource.Attribute.ratingBarStyle;
+			global::CharadesLibrary.Resource.Attribute.ratingBarStyleIndicator = global::AndroidCourse.Resource.Attribute.ratingBarStyleIndicator;
+			global::CharadesLibrary.Resource.Attribute.ratingBarStyleSmall = global::AndroidCourse.Resource.Attribute.ratingBarStyleSmall;
+			global::CharadesLibrary.Resource.Attribute.searchHintIcon = global::AndroidCourse.Resource.Attribute.searchHintIcon;
+			global::CharadesLibrary.Resource.Attribute.searchIcon = global::AndroidCourse.Resource.Attribute.searchIcon;
+			global::CharadesLibrary.Resource.Attribute.searchViewStyle = global::AndroidCourse.Resource.Attribute.searchViewStyle;
+			global::CharadesLibrary.Resource.Attribute.seekBarStyle = global::AndroidCourse.Resource.Attribute.seekBarStyle;
+			global::CharadesLibrary.Resource.Attribute.selectableItemBackground = global::AndroidCourse.Resource.Attribute.selectableItemBackground;
+			global::CharadesLibrary.Resource.Attribute.selectableItemBackgroundBorderless = global::AndroidCourse.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::CharadesLibrary.Resource.Attribute.showAsAction = global::AndroidCourse.Resource.Attribute.showAsAction;
+			global::CharadesLibrary.Resource.Attribute.showDividers = global::AndroidCourse.Resource.Attribute.showDividers;
+			global::CharadesLibrary.Resource.Attribute.showText = global::AndroidCourse.Resource.Attribute.showText;
+			global::CharadesLibrary.Resource.Attribute.showTitle = global::AndroidCourse.Resource.Attribute.showTitle;
+			global::CharadesLibrary.Resource.Attribute.singleChoiceItemLayout = global::AndroidCourse.Resource.Attribute.singleChoiceItemLayout;
+			global::CharadesLibrary.Resource.Attribute.spinBars = global::AndroidCourse.Resource.Attribute.spinBars;
+			global::CharadesLibrary.Resource.Attribute.spinnerDropDownItemStyle = global::AndroidCourse.Resource.Attribute.spinnerDropDownItemStyle;
+			global::CharadesLibrary.Resource.Attribute.spinnerStyle = global::AndroidCourse.Resource.Attribute.spinnerStyle;
+			global::CharadesLibrary.Resource.Attribute.splitTrack = global::AndroidCourse.Resource.Attribute.splitTrack;
+			global::CharadesLibrary.Resource.Attribute.srcCompat = global::AndroidCourse.Resource.Attribute.srcCompat;
+			global::CharadesLibrary.Resource.Attribute.state_above_anchor = global::AndroidCourse.Resource.Attribute.state_above_anchor;
+			global::CharadesLibrary.Resource.Attribute.subMenuArrow = global::AndroidCourse.Resource.Attribute.subMenuArrow;
+			global::CharadesLibrary.Resource.Attribute.submitBackground = global::AndroidCourse.Resource.Attribute.submitBackground;
+			global::CharadesLibrary.Resource.Attribute.subtitle = global::AndroidCourse.Resource.Attribute.subtitle;
+			global::CharadesLibrary.Resource.Attribute.subtitleTextAppearance = global::AndroidCourse.Resource.Attribute.subtitleTextAppearance;
+			global::CharadesLibrary.Resource.Attribute.subtitleTextColor = global::AndroidCourse.Resource.Attribute.subtitleTextColor;
+			global::CharadesLibrary.Resource.Attribute.subtitleTextStyle = global::AndroidCourse.Resource.Attribute.subtitleTextStyle;
+			global::CharadesLibrary.Resource.Attribute.suggestionRowLayout = global::AndroidCourse.Resource.Attribute.suggestionRowLayout;
+			global::CharadesLibrary.Resource.Attribute.switchMinWidth = global::AndroidCourse.Resource.Attribute.switchMinWidth;
+			global::CharadesLibrary.Resource.Attribute.switchPadding = global::AndroidCourse.Resource.Attribute.switchPadding;
+			global::CharadesLibrary.Resource.Attribute.switchStyle = global::AndroidCourse.Resource.Attribute.switchStyle;
+			global::CharadesLibrary.Resource.Attribute.switchTextAppearance = global::AndroidCourse.Resource.Attribute.switchTextAppearance;
+			global::CharadesLibrary.Resource.Attribute.textAllCaps = global::AndroidCourse.Resource.Attribute.textAllCaps;
+			global::CharadesLibrary.Resource.Attribute.textAppearanceLargePopupMenu = global::AndroidCourse.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::CharadesLibrary.Resource.Attribute.textAppearanceListItem = global::AndroidCourse.Resource.Attribute.textAppearanceListItem;
+			global::CharadesLibrary.Resource.Attribute.textAppearanceListItemSecondary = global::AndroidCourse.Resource.Attribute.textAppearanceListItemSecondary;
+			global::CharadesLibrary.Resource.Attribute.textAppearanceListItemSmall = global::AndroidCourse.Resource.Attribute.textAppearanceListItemSmall;
+			global::CharadesLibrary.Resource.Attribute.textAppearancePopupMenuHeader = global::AndroidCourse.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::CharadesLibrary.Resource.Attribute.textAppearanceSearchResultSubtitle = global::AndroidCourse.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::CharadesLibrary.Resource.Attribute.textAppearanceSearchResultTitle = global::AndroidCourse.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::CharadesLibrary.Resource.Attribute.textAppearanceSmallPopupMenu = global::AndroidCourse.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::CharadesLibrary.Resource.Attribute.textColorAlertDialogListItem = global::AndroidCourse.Resource.Attribute.textColorAlertDialogListItem;
+			global::CharadesLibrary.Resource.Attribute.textColorSearchUrl = global::AndroidCourse.Resource.Attribute.textColorSearchUrl;
+			global::CharadesLibrary.Resource.Attribute.theme = global::AndroidCourse.Resource.Attribute.theme;
+			global::CharadesLibrary.Resource.Attribute.thickness = global::AndroidCourse.Resource.Attribute.thickness;
+			global::CharadesLibrary.Resource.Attribute.thumbTextPadding = global::AndroidCourse.Resource.Attribute.thumbTextPadding;
+			global::CharadesLibrary.Resource.Attribute.thumbTint = global::AndroidCourse.Resource.Attribute.thumbTint;
+			global::CharadesLibrary.Resource.Attribute.thumbTintMode = global::AndroidCourse.Resource.Attribute.thumbTintMode;
+			global::CharadesLibrary.Resource.Attribute.tickMark = global::AndroidCourse.Resource.Attribute.tickMark;
+			global::CharadesLibrary.Resource.Attribute.tickMarkTint = global::AndroidCourse.Resource.Attribute.tickMarkTint;
+			global::CharadesLibrary.Resource.Attribute.tickMarkTintMode = global::AndroidCourse.Resource.Attribute.tickMarkTintMode;
+			global::CharadesLibrary.Resource.Attribute.tint = global::AndroidCourse.Resource.Attribute.tint;
+			global::CharadesLibrary.Resource.Attribute.tintMode = global::AndroidCourse.Resource.Attribute.tintMode;
+			global::CharadesLibrary.Resource.Attribute.title = global::AndroidCourse.Resource.Attribute.title;
+			global::CharadesLibrary.Resource.Attribute.titleMargin = global::AndroidCourse.Resource.Attribute.titleMargin;
+			global::CharadesLibrary.Resource.Attribute.titleMarginBottom = global::AndroidCourse.Resource.Attribute.titleMarginBottom;
+			global::CharadesLibrary.Resource.Attribute.titleMarginEnd = global::AndroidCourse.Resource.Attribute.titleMarginEnd;
+			global::CharadesLibrary.Resource.Attribute.titleMarginStart = global::AndroidCourse.Resource.Attribute.titleMarginStart;
+			global::CharadesLibrary.Resource.Attribute.titleMarginTop = global::AndroidCourse.Resource.Attribute.titleMarginTop;
+			global::CharadesLibrary.Resource.Attribute.titleMargins = global::AndroidCourse.Resource.Attribute.titleMargins;
+			global::CharadesLibrary.Resource.Attribute.titleTextAppearance = global::AndroidCourse.Resource.Attribute.titleTextAppearance;
+			global::CharadesLibrary.Resource.Attribute.titleTextColor = global::AndroidCourse.Resource.Attribute.titleTextColor;
+			global::CharadesLibrary.Resource.Attribute.titleTextStyle = global::AndroidCourse.Resource.Attribute.titleTextStyle;
+			global::CharadesLibrary.Resource.Attribute.toolbarNavigationButtonStyle = global::AndroidCourse.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::CharadesLibrary.Resource.Attribute.toolbarStyle = global::AndroidCourse.Resource.Attribute.toolbarStyle;
+			global::CharadesLibrary.Resource.Attribute.tooltipForegroundColor = global::AndroidCourse.Resource.Attribute.tooltipForegroundColor;
+			global::CharadesLibrary.Resource.Attribute.tooltipFrameBackground = global::AndroidCourse.Resource.Attribute.tooltipFrameBackground;
+			global::CharadesLibrary.Resource.Attribute.tooltipText = global::AndroidCourse.Resource.Attribute.tooltipText;
+			global::CharadesLibrary.Resource.Attribute.track = global::AndroidCourse.Resource.Attribute.track;
+			global::CharadesLibrary.Resource.Attribute.trackTint = global::AndroidCourse.Resource.Attribute.trackTint;
+			global::CharadesLibrary.Resource.Attribute.trackTintMode = global::AndroidCourse.Resource.Attribute.trackTintMode;
+			global::CharadesLibrary.Resource.Attribute.voiceIcon = global::AndroidCourse.Resource.Attribute.voiceIcon;
+			global::CharadesLibrary.Resource.Attribute.windowActionBar = global::AndroidCourse.Resource.Attribute.windowActionBar;
+			global::CharadesLibrary.Resource.Attribute.windowActionBarOverlay = global::AndroidCourse.Resource.Attribute.windowActionBarOverlay;
+			global::CharadesLibrary.Resource.Attribute.windowActionModeOverlay = global::AndroidCourse.Resource.Attribute.windowActionModeOverlay;
+			global::CharadesLibrary.Resource.Attribute.windowFixedHeightMajor = global::AndroidCourse.Resource.Attribute.windowFixedHeightMajor;
+			global::CharadesLibrary.Resource.Attribute.windowFixedHeightMinor = global::AndroidCourse.Resource.Attribute.windowFixedHeightMinor;
+			global::CharadesLibrary.Resource.Attribute.windowFixedWidthMajor = global::AndroidCourse.Resource.Attribute.windowFixedWidthMajor;
+			global::CharadesLibrary.Resource.Attribute.windowFixedWidthMinor = global::AndroidCourse.Resource.Attribute.windowFixedWidthMinor;
+			global::CharadesLibrary.Resource.Attribute.windowMinWidthMajor = global::AndroidCourse.Resource.Attribute.windowMinWidthMajor;
+			global::CharadesLibrary.Resource.Attribute.windowMinWidthMinor = global::AndroidCourse.Resource.Attribute.windowMinWidthMinor;
+			global::CharadesLibrary.Resource.Attribute.windowNoTitle = global::AndroidCourse.Resource.Attribute.windowNoTitle;
+			global::CharadesLibrary.Resource.Boolean.abc_action_bar_embed_tabs = global::AndroidCourse.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::CharadesLibrary.Resource.Boolean.abc_allow_stacked_button_bar = global::AndroidCourse.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::CharadesLibrary.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::AndroidCourse.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::CharadesLibrary.Resource.Boolean.abc_config_closeDialogWhenTouchOutside = global::AndroidCourse.Resource.Boolean.abc_config_closeDialogWhenTouchOutside;
+			global::CharadesLibrary.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent = global::AndroidCourse.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent;
+			global::CharadesLibrary.Resource.Color.abc_background_cache_hint_selector_material_dark = global::AndroidCourse.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::CharadesLibrary.Resource.Color.abc_background_cache_hint_selector_material_light = global::AndroidCourse.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::CharadesLibrary.Resource.Color.abc_btn_colored_borderless_text_material = global::AndroidCourse.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::CharadesLibrary.Resource.Color.abc_btn_colored_text_material = global::AndroidCourse.Resource.Color.abc_btn_colored_text_material;
+			global::CharadesLibrary.Resource.Color.abc_color_highlight_material = global::AndroidCourse.Resource.Color.abc_color_highlight_material;
+			global::CharadesLibrary.Resource.Color.abc_hint_foreground_material_dark = global::AndroidCourse.Resource.Color.abc_hint_foreground_material_dark;
+			global::CharadesLibrary.Resource.Color.abc_hint_foreground_material_light = global::AndroidCourse.Resource.Color.abc_hint_foreground_material_light;
+			global::CharadesLibrary.Resource.Color.abc_input_method_navigation_guard = global::AndroidCourse.Resource.Color.abc_input_method_navigation_guard;
+			global::CharadesLibrary.Resource.Color.abc_primary_text_disable_only_material_dark = global::AndroidCourse.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::CharadesLibrary.Resource.Color.abc_primary_text_disable_only_material_light = global::AndroidCourse.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::CharadesLibrary.Resource.Color.abc_primary_text_material_dark = global::AndroidCourse.Resource.Color.abc_primary_text_material_dark;
+			global::CharadesLibrary.Resource.Color.abc_primary_text_material_light = global::AndroidCourse.Resource.Color.abc_primary_text_material_light;
+			global::CharadesLibrary.Resource.Color.abc_search_url_text = global::AndroidCourse.Resource.Color.abc_search_url_text;
+			global::CharadesLibrary.Resource.Color.abc_search_url_text_normal = global::AndroidCourse.Resource.Color.abc_search_url_text_normal;
+			global::CharadesLibrary.Resource.Color.abc_search_url_text_pressed = global::AndroidCourse.Resource.Color.abc_search_url_text_pressed;
+			global::CharadesLibrary.Resource.Color.abc_search_url_text_selected = global::AndroidCourse.Resource.Color.abc_search_url_text_selected;
+			global::CharadesLibrary.Resource.Color.abc_secondary_text_material_dark = global::AndroidCourse.Resource.Color.abc_secondary_text_material_dark;
+			global::CharadesLibrary.Resource.Color.abc_secondary_text_material_light = global::AndroidCourse.Resource.Color.abc_secondary_text_material_light;
+			global::CharadesLibrary.Resource.Color.abc_tint_btn_checkable = global::AndroidCourse.Resource.Color.abc_tint_btn_checkable;
+			global::CharadesLibrary.Resource.Color.abc_tint_default = global::AndroidCourse.Resource.Color.abc_tint_default;
+			global::CharadesLibrary.Resource.Color.abc_tint_edittext = global::AndroidCourse.Resource.Color.abc_tint_edittext;
+			global::CharadesLibrary.Resource.Color.abc_tint_seek_thumb = global::AndroidCourse.Resource.Color.abc_tint_seek_thumb;
+			global::CharadesLibrary.Resource.Color.abc_tint_spinner = global::AndroidCourse.Resource.Color.abc_tint_spinner;
+			global::CharadesLibrary.Resource.Color.abc_tint_switch_track = global::AndroidCourse.Resource.Color.abc_tint_switch_track;
+			global::CharadesLibrary.Resource.Color.accent_material_dark = global::AndroidCourse.Resource.Color.accent_material_dark;
+			global::CharadesLibrary.Resource.Color.accent_material_light = global::AndroidCourse.Resource.Color.accent_material_light;
+			global::CharadesLibrary.Resource.Color.background_floating_material_dark = global::AndroidCourse.Resource.Color.background_floating_material_dark;
+			global::CharadesLibrary.Resource.Color.background_floating_material_light = global::AndroidCourse.Resource.Color.background_floating_material_light;
+			global::CharadesLibrary.Resource.Color.background_material_dark = global::AndroidCourse.Resource.Color.background_material_dark;
+			global::CharadesLibrary.Resource.Color.background_material_light = global::AndroidCourse.Resource.Color.background_material_light;
+			global::CharadesLibrary.Resource.Color.bright_foreground_disabled_material_dark = global::AndroidCourse.Resource.Color.bright_foreground_disabled_material_dark;
+			global::CharadesLibrary.Resource.Color.bright_foreground_disabled_material_light = global::AndroidCourse.Resource.Color.bright_foreground_disabled_material_light;
+			global::CharadesLibrary.Resource.Color.bright_foreground_inverse_material_dark = global::AndroidCourse.Resource.Color.bright_foreground_inverse_material_dark;
+			global::CharadesLibrary.Resource.Color.bright_foreground_inverse_material_light = global::AndroidCourse.Resource.Color.bright_foreground_inverse_material_light;
+			global::CharadesLibrary.Resource.Color.bright_foreground_material_dark = global::AndroidCourse.Resource.Color.bright_foreground_material_dark;
+			global::CharadesLibrary.Resource.Color.bright_foreground_material_light = global::AndroidCourse.Resource.Color.bright_foreground_material_light;
+			global::CharadesLibrary.Resource.Color.button_material_dark = global::AndroidCourse.Resource.Color.button_material_dark;
+			global::CharadesLibrary.Resource.Color.button_material_light = global::AndroidCourse.Resource.Color.button_material_light;
+			global::CharadesLibrary.Resource.Color.dim_foreground_disabled_material_dark = global::AndroidCourse.Resource.Color.dim_foreground_disabled_material_dark;
+			global::CharadesLibrary.Resource.Color.dim_foreground_disabled_material_light = global::AndroidCourse.Resource.Color.dim_foreground_disabled_material_light;
+			global::CharadesLibrary.Resource.Color.dim_foreground_material_dark = global::AndroidCourse.Resource.Color.dim_foreground_material_dark;
+			global::CharadesLibrary.Resource.Color.dim_foreground_material_light = global::AndroidCourse.Resource.Color.dim_foreground_material_light;
+			global::CharadesLibrary.Resource.Color.error_color_material = global::AndroidCourse.Resource.Color.error_color_material;
+			global::CharadesLibrary.Resource.Color.foreground_material_dark = global::AndroidCourse.Resource.Color.foreground_material_dark;
+			global::CharadesLibrary.Resource.Color.foreground_material_light = global::AndroidCourse.Resource.Color.foreground_material_light;
+			global::CharadesLibrary.Resource.Color.highlighted_text_material_dark = global::AndroidCourse.Resource.Color.highlighted_text_material_dark;
+			global::CharadesLibrary.Resource.Color.highlighted_text_material_light = global::AndroidCourse.Resource.Color.highlighted_text_material_light;
+			global::CharadesLibrary.Resource.Color.material_blue_grey_800 = global::AndroidCourse.Resource.Color.material_blue_grey_800;
+			global::CharadesLibrary.Resource.Color.material_blue_grey_900 = global::AndroidCourse.Resource.Color.material_blue_grey_900;
+			global::CharadesLibrary.Resource.Color.material_blue_grey_950 = global::AndroidCourse.Resource.Color.material_blue_grey_950;
+			global::CharadesLibrary.Resource.Color.material_deep_teal_200 = global::AndroidCourse.Resource.Color.material_deep_teal_200;
+			global::CharadesLibrary.Resource.Color.material_deep_teal_500 = global::AndroidCourse.Resource.Color.material_deep_teal_500;
+			global::CharadesLibrary.Resource.Color.material_grey_100 = global::AndroidCourse.Resource.Color.material_grey_100;
+			global::CharadesLibrary.Resource.Color.material_grey_300 = global::AndroidCourse.Resource.Color.material_grey_300;
+			global::CharadesLibrary.Resource.Color.material_grey_50 = global::AndroidCourse.Resource.Color.material_grey_50;
+			global::CharadesLibrary.Resource.Color.material_grey_600 = global::AndroidCourse.Resource.Color.material_grey_600;
+			global::CharadesLibrary.Resource.Color.material_grey_800 = global::AndroidCourse.Resource.Color.material_grey_800;
+			global::CharadesLibrary.Resource.Color.material_grey_850 = global::AndroidCourse.Resource.Color.material_grey_850;
+			global::CharadesLibrary.Resource.Color.material_grey_900 = global::AndroidCourse.Resource.Color.material_grey_900;
+			global::CharadesLibrary.Resource.Color.notification_action_color_filter = global::AndroidCourse.Resource.Color.notification_action_color_filter;
+			global::CharadesLibrary.Resource.Color.notification_icon_bg_color = global::AndroidCourse.Resource.Color.notification_icon_bg_color;
+			global::CharadesLibrary.Resource.Color.notification_material_background_media_default_color = global::AndroidCourse.Resource.Color.notification_material_background_media_default_color;
+			global::CharadesLibrary.Resource.Color.primary_dark_material_dark = global::AndroidCourse.Resource.Color.primary_dark_material_dark;
+			global::CharadesLibrary.Resource.Color.primary_dark_material_light = global::AndroidCourse.Resource.Color.primary_dark_material_light;
+			global::CharadesLibrary.Resource.Color.primary_material_dark = global::AndroidCourse.Resource.Color.primary_material_dark;
+			global::CharadesLibrary.Resource.Color.primary_material_light = global::AndroidCourse.Resource.Color.primary_material_light;
+			global::CharadesLibrary.Resource.Color.primary_text_default_material_dark = global::AndroidCourse.Resource.Color.primary_text_default_material_dark;
+			global::CharadesLibrary.Resource.Color.primary_text_default_material_light = global::AndroidCourse.Resource.Color.primary_text_default_material_light;
+			global::CharadesLibrary.Resource.Color.primary_text_disabled_material_dark = global::AndroidCourse.Resource.Color.primary_text_disabled_material_dark;
+			global::CharadesLibrary.Resource.Color.primary_text_disabled_material_light = global::AndroidCourse.Resource.Color.primary_text_disabled_material_light;
+			global::CharadesLibrary.Resource.Color.ripple_material_dark = global::AndroidCourse.Resource.Color.ripple_material_dark;
+			global::CharadesLibrary.Resource.Color.ripple_material_light = global::AndroidCourse.Resource.Color.ripple_material_light;
+			global::CharadesLibrary.Resource.Color.secondary_text_default_material_dark = global::AndroidCourse.Resource.Color.secondary_text_default_material_dark;
+			global::CharadesLibrary.Resource.Color.secondary_text_default_material_light = global::AndroidCourse.Resource.Color.secondary_text_default_material_light;
+			global::CharadesLibrary.Resource.Color.secondary_text_disabled_material_dark = global::AndroidCourse.Resource.Color.secondary_text_disabled_material_dark;
+			global::CharadesLibrary.Resource.Color.secondary_text_disabled_material_light = global::AndroidCourse.Resource.Color.secondary_text_disabled_material_light;
+			global::CharadesLibrary.Resource.Color.switch_thumb_disabled_material_dark = global::AndroidCourse.Resource.Color.switch_thumb_disabled_material_dark;
+			global::CharadesLibrary.Resource.Color.switch_thumb_disabled_material_light = global::AndroidCourse.Resource.Color.switch_thumb_disabled_material_light;
+			global::CharadesLibrary.Resource.Color.switch_thumb_material_dark = global::AndroidCourse.Resource.Color.switch_thumb_material_dark;
+			global::CharadesLibrary.Resource.Color.switch_thumb_material_light = global::AndroidCourse.Resource.Color.switch_thumb_material_light;
+			global::CharadesLibrary.Resource.Color.switch_thumb_normal_material_dark = global::AndroidCourse.Resource.Color.switch_thumb_normal_material_dark;
+			global::CharadesLibrary.Resource.Color.switch_thumb_normal_material_light = global::AndroidCourse.Resource.Color.switch_thumb_normal_material_light;
+			global::CharadesLibrary.Resource.Color.tooltip_background_dark = global::AndroidCourse.Resource.Color.tooltip_background_dark;
+			global::CharadesLibrary.Resource.Color.tooltip_background_light = global::AndroidCourse.Resource.Color.tooltip_background_light;
+			global::CharadesLibrary.Resource.Dimension.abc_action_bar_content_inset_material = global::AndroidCourse.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::CharadesLibrary.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::AndroidCourse.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::CharadesLibrary.Resource.Dimension.abc_action_bar_default_height_material = global::AndroidCourse.Resource.Dimension.abc_action_bar_default_height_material;
+			global::CharadesLibrary.Resource.Dimension.abc_action_bar_default_padding_end_material = global::AndroidCourse.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::CharadesLibrary.Resource.Dimension.abc_action_bar_default_padding_start_material = global::AndroidCourse.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::CharadesLibrary.Resource.Dimension.abc_action_bar_elevation_material = global::AndroidCourse.Resource.Dimension.abc_action_bar_elevation_material;
+			global::CharadesLibrary.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::AndroidCourse.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::CharadesLibrary.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::AndroidCourse.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::CharadesLibrary.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::AndroidCourse.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::CharadesLibrary.Resource.Dimension.abc_action_bar_progress_bar_size = global::AndroidCourse.Resource.Dimension.abc_action_bar_progress_bar_size;
+			global::CharadesLibrary.Resource.Dimension.abc_action_bar_stacked_max_height = global::AndroidCourse.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::CharadesLibrary.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::AndroidCourse.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::CharadesLibrary.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::AndroidCourse.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::CharadesLibrary.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::AndroidCourse.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::CharadesLibrary.Resource.Dimension.abc_action_button_min_height_material = global::AndroidCourse.Resource.Dimension.abc_action_button_min_height_material;
+			global::CharadesLibrary.Resource.Dimension.abc_action_button_min_width_material = global::AndroidCourse.Resource.Dimension.abc_action_button_min_width_material;
+			global::CharadesLibrary.Resource.Dimension.abc_action_button_min_width_overflow_material = global::AndroidCourse.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::CharadesLibrary.Resource.Dimension.abc_alert_dialog_button_bar_height = global::AndroidCourse.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::CharadesLibrary.Resource.Dimension.abc_button_inset_horizontal_material = global::AndroidCourse.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::CharadesLibrary.Resource.Dimension.abc_button_inset_vertical_material = global::AndroidCourse.Resource.Dimension.abc_button_inset_vertical_material;
+			global::CharadesLibrary.Resource.Dimension.abc_button_padding_horizontal_material = global::AndroidCourse.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::CharadesLibrary.Resource.Dimension.abc_button_padding_vertical_material = global::AndroidCourse.Resource.Dimension.abc_button_padding_vertical_material;
+			global::CharadesLibrary.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::AndroidCourse.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::CharadesLibrary.Resource.Dimension.abc_config_prefDialogWidth = global::AndroidCourse.Resource.Dimension.abc_config_prefDialogWidth;
+			global::CharadesLibrary.Resource.Dimension.abc_control_corner_material = global::AndroidCourse.Resource.Dimension.abc_control_corner_material;
+			global::CharadesLibrary.Resource.Dimension.abc_control_inset_material = global::AndroidCourse.Resource.Dimension.abc_control_inset_material;
+			global::CharadesLibrary.Resource.Dimension.abc_control_padding_material = global::AndroidCourse.Resource.Dimension.abc_control_padding_material;
+			global::CharadesLibrary.Resource.Dimension.abc_dialog_fixed_height_major = global::AndroidCourse.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::CharadesLibrary.Resource.Dimension.abc_dialog_fixed_height_minor = global::AndroidCourse.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::CharadesLibrary.Resource.Dimension.abc_dialog_fixed_width_major = global::AndroidCourse.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::CharadesLibrary.Resource.Dimension.abc_dialog_fixed_width_minor = global::AndroidCourse.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::CharadesLibrary.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::AndroidCourse.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::CharadesLibrary.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::AndroidCourse.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::CharadesLibrary.Resource.Dimension.abc_dialog_min_width_major = global::AndroidCourse.Resource.Dimension.abc_dialog_min_width_major;
+			global::CharadesLibrary.Resource.Dimension.abc_dialog_min_width_minor = global::AndroidCourse.Resource.Dimension.abc_dialog_min_width_minor;
+			global::CharadesLibrary.Resource.Dimension.abc_dialog_padding_material = global::AndroidCourse.Resource.Dimension.abc_dialog_padding_material;
+			global::CharadesLibrary.Resource.Dimension.abc_dialog_padding_top_material = global::AndroidCourse.Resource.Dimension.abc_dialog_padding_top_material;
+			global::CharadesLibrary.Resource.Dimension.abc_dialog_title_divider_material = global::AndroidCourse.Resource.Dimension.abc_dialog_title_divider_material;
+			global::CharadesLibrary.Resource.Dimension.abc_disabled_alpha_material_dark = global::AndroidCourse.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::CharadesLibrary.Resource.Dimension.abc_disabled_alpha_material_light = global::AndroidCourse.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::CharadesLibrary.Resource.Dimension.abc_dropdownitem_icon_width = global::AndroidCourse.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::CharadesLibrary.Resource.Dimension.abc_dropdownitem_text_padding_left = global::AndroidCourse.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::CharadesLibrary.Resource.Dimension.abc_dropdownitem_text_padding_right = global::AndroidCourse.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::CharadesLibrary.Resource.Dimension.abc_edit_text_inset_bottom_material = global::AndroidCourse.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::CharadesLibrary.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::AndroidCourse.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::CharadesLibrary.Resource.Dimension.abc_edit_text_inset_top_material = global::AndroidCourse.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::CharadesLibrary.Resource.Dimension.abc_floating_window_z = global::AndroidCourse.Resource.Dimension.abc_floating_window_z;
+			global::CharadesLibrary.Resource.Dimension.abc_list_item_padding_horizontal_material = global::AndroidCourse.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::CharadesLibrary.Resource.Dimension.abc_panel_menu_list_width = global::AndroidCourse.Resource.Dimension.abc_panel_menu_list_width;
+			global::CharadesLibrary.Resource.Dimension.abc_progress_bar_height_material = global::AndroidCourse.Resource.Dimension.abc_progress_bar_height_material;
+			global::CharadesLibrary.Resource.Dimension.abc_search_view_preferred_height = global::AndroidCourse.Resource.Dimension.abc_search_view_preferred_height;
+			global::CharadesLibrary.Resource.Dimension.abc_search_view_preferred_width = global::AndroidCourse.Resource.Dimension.abc_search_view_preferred_width;
+			global::CharadesLibrary.Resource.Dimension.abc_seekbar_track_background_height_material = global::AndroidCourse.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::CharadesLibrary.Resource.Dimension.abc_seekbar_track_progress_height_material = global::AndroidCourse.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::CharadesLibrary.Resource.Dimension.abc_select_dialog_padding_start_material = global::AndroidCourse.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::CharadesLibrary.Resource.Dimension.abc_switch_padding = global::AndroidCourse.Resource.Dimension.abc_switch_padding;
+			global::CharadesLibrary.Resource.Dimension.abc_text_size_body_1_material = global::AndroidCourse.Resource.Dimension.abc_text_size_body_1_material;
+			global::CharadesLibrary.Resource.Dimension.abc_text_size_body_2_material = global::AndroidCourse.Resource.Dimension.abc_text_size_body_2_material;
+			global::CharadesLibrary.Resource.Dimension.abc_text_size_button_material = global::AndroidCourse.Resource.Dimension.abc_text_size_button_material;
+			global::CharadesLibrary.Resource.Dimension.abc_text_size_caption_material = global::AndroidCourse.Resource.Dimension.abc_text_size_caption_material;
+			global::CharadesLibrary.Resource.Dimension.abc_text_size_display_1_material = global::AndroidCourse.Resource.Dimension.abc_text_size_display_1_material;
+			global::CharadesLibrary.Resource.Dimension.abc_text_size_display_2_material = global::AndroidCourse.Resource.Dimension.abc_text_size_display_2_material;
+			global::CharadesLibrary.Resource.Dimension.abc_text_size_display_3_material = global::AndroidCourse.Resource.Dimension.abc_text_size_display_3_material;
+			global::CharadesLibrary.Resource.Dimension.abc_text_size_display_4_material = global::AndroidCourse.Resource.Dimension.abc_text_size_display_4_material;
+			global::CharadesLibrary.Resource.Dimension.abc_text_size_headline_material = global::AndroidCourse.Resource.Dimension.abc_text_size_headline_material;
+			global::CharadesLibrary.Resource.Dimension.abc_text_size_large_material = global::AndroidCourse.Resource.Dimension.abc_text_size_large_material;
+			global::CharadesLibrary.Resource.Dimension.abc_text_size_medium_material = global::AndroidCourse.Resource.Dimension.abc_text_size_medium_material;
+			global::CharadesLibrary.Resource.Dimension.abc_text_size_menu_header_material = global::AndroidCourse.Resource.Dimension.abc_text_size_menu_header_material;
+			global::CharadesLibrary.Resource.Dimension.abc_text_size_menu_material = global::AndroidCourse.Resource.Dimension.abc_text_size_menu_material;
+			global::CharadesLibrary.Resource.Dimension.abc_text_size_small_material = global::AndroidCourse.Resource.Dimension.abc_text_size_small_material;
+			global::CharadesLibrary.Resource.Dimension.abc_text_size_subhead_material = global::AndroidCourse.Resource.Dimension.abc_text_size_subhead_material;
+			global::CharadesLibrary.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::AndroidCourse.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::CharadesLibrary.Resource.Dimension.abc_text_size_title_material = global::AndroidCourse.Resource.Dimension.abc_text_size_title_material;
+			global::CharadesLibrary.Resource.Dimension.abc_text_size_title_material_toolbar = global::AndroidCourse.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::CharadesLibrary.Resource.Dimension.compat_button_inset_horizontal_material = global::AndroidCourse.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::CharadesLibrary.Resource.Dimension.compat_button_inset_vertical_material = global::AndroidCourse.Resource.Dimension.compat_button_inset_vertical_material;
+			global::CharadesLibrary.Resource.Dimension.compat_button_padding_horizontal_material = global::AndroidCourse.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::CharadesLibrary.Resource.Dimension.compat_button_padding_vertical_material = global::AndroidCourse.Resource.Dimension.compat_button_padding_vertical_material;
+			global::CharadesLibrary.Resource.Dimension.compat_control_corner_material = global::AndroidCourse.Resource.Dimension.compat_control_corner_material;
+			global::CharadesLibrary.Resource.Dimension.disabled_alpha_material_dark = global::AndroidCourse.Resource.Dimension.disabled_alpha_material_dark;
+			global::CharadesLibrary.Resource.Dimension.disabled_alpha_material_light = global::AndroidCourse.Resource.Dimension.disabled_alpha_material_light;
+			global::CharadesLibrary.Resource.Dimension.highlight_alpha_material_colored = global::AndroidCourse.Resource.Dimension.highlight_alpha_material_colored;
+			global::CharadesLibrary.Resource.Dimension.highlight_alpha_material_dark = global::AndroidCourse.Resource.Dimension.highlight_alpha_material_dark;
+			global::CharadesLibrary.Resource.Dimension.highlight_alpha_material_light = global::AndroidCourse.Resource.Dimension.highlight_alpha_material_light;
+			global::CharadesLibrary.Resource.Dimension.hint_alpha_material_dark = global::AndroidCourse.Resource.Dimension.hint_alpha_material_dark;
+			global::CharadesLibrary.Resource.Dimension.hint_alpha_material_light = global::AndroidCourse.Resource.Dimension.hint_alpha_material_light;
+			global::CharadesLibrary.Resource.Dimension.hint_pressed_alpha_material_dark = global::AndroidCourse.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::CharadesLibrary.Resource.Dimension.hint_pressed_alpha_material_light = global::AndroidCourse.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::CharadesLibrary.Resource.Dimension.notification_action_icon_size = global::AndroidCourse.Resource.Dimension.notification_action_icon_size;
+			global::CharadesLibrary.Resource.Dimension.notification_action_text_size = global::AndroidCourse.Resource.Dimension.notification_action_text_size;
+			global::CharadesLibrary.Resource.Dimension.notification_big_circle_margin = global::AndroidCourse.Resource.Dimension.notification_big_circle_margin;
+			global::CharadesLibrary.Resource.Dimension.notification_content_margin_start = global::AndroidCourse.Resource.Dimension.notification_content_margin_start;
+			global::CharadesLibrary.Resource.Dimension.notification_large_icon_height = global::AndroidCourse.Resource.Dimension.notification_large_icon_height;
+			global::CharadesLibrary.Resource.Dimension.notification_large_icon_width = global::AndroidCourse.Resource.Dimension.notification_large_icon_width;
+			global::CharadesLibrary.Resource.Dimension.notification_main_column_padding_top = global::AndroidCourse.Resource.Dimension.notification_main_column_padding_top;
+			global::CharadesLibrary.Resource.Dimension.notification_media_narrow_margin = global::AndroidCourse.Resource.Dimension.notification_media_narrow_margin;
+			global::CharadesLibrary.Resource.Dimension.notification_right_icon_size = global::AndroidCourse.Resource.Dimension.notification_right_icon_size;
+			global::CharadesLibrary.Resource.Dimension.notification_right_side_padding_top = global::AndroidCourse.Resource.Dimension.notification_right_side_padding_top;
+			global::CharadesLibrary.Resource.Dimension.notification_small_icon_background_padding = global::AndroidCourse.Resource.Dimension.notification_small_icon_background_padding;
+			global::CharadesLibrary.Resource.Dimension.notification_small_icon_size_as_large = global::AndroidCourse.Resource.Dimension.notification_small_icon_size_as_large;
+			global::CharadesLibrary.Resource.Dimension.notification_subtext_size = global::AndroidCourse.Resource.Dimension.notification_subtext_size;
+			global::CharadesLibrary.Resource.Dimension.notification_top_pad = global::AndroidCourse.Resource.Dimension.notification_top_pad;
+			global::CharadesLibrary.Resource.Dimension.notification_top_pad_large_text = global::AndroidCourse.Resource.Dimension.notification_top_pad_large_text;
+			global::CharadesLibrary.Resource.Dimension.tooltip_corner_radius = global::AndroidCourse.Resource.Dimension.tooltip_corner_radius;
+			global::CharadesLibrary.Resource.Dimension.tooltip_horizontal_padding = global::AndroidCourse.Resource.Dimension.tooltip_horizontal_padding;
+			global::CharadesLibrary.Resource.Dimension.tooltip_margin = global::AndroidCourse.Resource.Dimension.tooltip_margin;
+			global::CharadesLibrary.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::AndroidCourse.Resource.Dimension.tooltip_precise_anchor_extra_offset;
+			global::CharadesLibrary.Resource.Dimension.tooltip_precise_anchor_threshold = global::AndroidCourse.Resource.Dimension.tooltip_precise_anchor_threshold;
+			global::CharadesLibrary.Resource.Dimension.tooltip_vertical_padding = global::AndroidCourse.Resource.Dimension.tooltip_vertical_padding;
+			global::CharadesLibrary.Resource.Dimension.tooltip_y_offset_non_touch = global::AndroidCourse.Resource.Dimension.tooltip_y_offset_non_touch;
+			global::CharadesLibrary.Resource.Dimension.tooltip_y_offset_touch = global::AndroidCourse.Resource.Dimension.tooltip_y_offset_touch;
+			global::CharadesLibrary.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::AndroidCourse.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::CharadesLibrary.Resource.Drawable.abc_action_bar_item_background_material = global::AndroidCourse.Resource.Drawable.abc_action_bar_item_background_material;
+			global::CharadesLibrary.Resource.Drawable.abc_btn_borderless_material = global::AndroidCourse.Resource.Drawable.abc_btn_borderless_material;
+			global::CharadesLibrary.Resource.Drawable.abc_btn_check_material = global::AndroidCourse.Resource.Drawable.abc_btn_check_material;
+			global::CharadesLibrary.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::AndroidCourse.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::CharadesLibrary.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::AndroidCourse.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::CharadesLibrary.Resource.Drawable.abc_btn_colored_material = global::AndroidCourse.Resource.Drawable.abc_btn_colored_material;
+			global::CharadesLibrary.Resource.Drawable.abc_btn_default_mtrl_shape = global::AndroidCourse.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::CharadesLibrary.Resource.Drawable.abc_btn_radio_material = global::AndroidCourse.Resource.Drawable.abc_btn_radio_material;
+			global::CharadesLibrary.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::AndroidCourse.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::CharadesLibrary.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::AndroidCourse.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::CharadesLibrary.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::AndroidCourse.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::CharadesLibrary.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::AndroidCourse.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::CharadesLibrary.Resource.Drawable.abc_cab_background_internal_bg = global::AndroidCourse.Resource.Drawable.abc_cab_background_internal_bg;
+			global::CharadesLibrary.Resource.Drawable.abc_cab_background_top_material = global::AndroidCourse.Resource.Drawable.abc_cab_background_top_material;
+			global::CharadesLibrary.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::AndroidCourse.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::CharadesLibrary.Resource.Drawable.abc_control_background_material = global::AndroidCourse.Resource.Drawable.abc_control_background_material;
+			global::CharadesLibrary.Resource.Drawable.abc_dialog_material_background = global::AndroidCourse.Resource.Drawable.abc_dialog_material_background;
+			global::CharadesLibrary.Resource.Drawable.abc_edit_text_material = global::AndroidCourse.Resource.Drawable.abc_edit_text_material;
+			global::CharadesLibrary.Resource.Drawable.abc_ic_ab_back_material = global::AndroidCourse.Resource.Drawable.abc_ic_ab_back_material;
+			global::CharadesLibrary.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::AndroidCourse.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::CharadesLibrary.Resource.Drawable.abc_ic_clear_material = global::AndroidCourse.Resource.Drawable.abc_ic_clear_material;
+			global::CharadesLibrary.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::AndroidCourse.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::CharadesLibrary.Resource.Drawable.abc_ic_go_search_api_material = global::AndroidCourse.Resource.Drawable.abc_ic_go_search_api_material;
+			global::CharadesLibrary.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::AndroidCourse.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::CharadesLibrary.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::AndroidCourse.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::CharadesLibrary.Resource.Drawable.abc_ic_menu_overflow_material = global::AndroidCourse.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::CharadesLibrary.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::AndroidCourse.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::CharadesLibrary.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::AndroidCourse.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::CharadesLibrary.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::AndroidCourse.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::CharadesLibrary.Resource.Drawable.abc_ic_search_api_material = global::AndroidCourse.Resource.Drawable.abc_ic_search_api_material;
+			global::CharadesLibrary.Resource.Drawable.abc_ic_star_black_16dp = global::AndroidCourse.Resource.Drawable.abc_ic_star_black_16dp;
+			global::CharadesLibrary.Resource.Drawable.abc_ic_star_black_36dp = global::AndroidCourse.Resource.Drawable.abc_ic_star_black_36dp;
+			global::CharadesLibrary.Resource.Drawable.abc_ic_star_black_48dp = global::AndroidCourse.Resource.Drawable.abc_ic_star_black_48dp;
+			global::CharadesLibrary.Resource.Drawable.abc_ic_star_half_black_16dp = global::AndroidCourse.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::CharadesLibrary.Resource.Drawable.abc_ic_star_half_black_36dp = global::AndroidCourse.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::CharadesLibrary.Resource.Drawable.abc_ic_star_half_black_48dp = global::AndroidCourse.Resource.Drawable.abc_ic_star_half_black_48dp;
+			global::CharadesLibrary.Resource.Drawable.abc_ic_voice_search_api_material = global::AndroidCourse.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::CharadesLibrary.Resource.Drawable.abc_item_background_holo_dark = global::AndroidCourse.Resource.Drawable.abc_item_background_holo_dark;
+			global::CharadesLibrary.Resource.Drawable.abc_item_background_holo_light = global::AndroidCourse.Resource.Drawable.abc_item_background_holo_light;
+			global::CharadesLibrary.Resource.Drawable.abc_list_divider_mtrl_alpha = global::AndroidCourse.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::CharadesLibrary.Resource.Drawable.abc_list_focused_holo = global::AndroidCourse.Resource.Drawable.abc_list_focused_holo;
+			global::CharadesLibrary.Resource.Drawable.abc_list_longpressed_holo = global::AndroidCourse.Resource.Drawable.abc_list_longpressed_holo;
+			global::CharadesLibrary.Resource.Drawable.abc_list_pressed_holo_dark = global::AndroidCourse.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::CharadesLibrary.Resource.Drawable.abc_list_pressed_holo_light = global::AndroidCourse.Resource.Drawable.abc_list_pressed_holo_light;
+			global::CharadesLibrary.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::AndroidCourse.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::CharadesLibrary.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::AndroidCourse.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::CharadesLibrary.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::AndroidCourse.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::CharadesLibrary.Resource.Drawable.abc_list_selector_disabled_holo_light = global::AndroidCourse.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::CharadesLibrary.Resource.Drawable.abc_list_selector_holo_dark = global::AndroidCourse.Resource.Drawable.abc_list_selector_holo_dark;
+			global::CharadesLibrary.Resource.Drawable.abc_list_selector_holo_light = global::AndroidCourse.Resource.Drawable.abc_list_selector_holo_light;
+			global::CharadesLibrary.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::AndroidCourse.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::CharadesLibrary.Resource.Drawable.abc_popup_background_mtrl_mult = global::AndroidCourse.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::CharadesLibrary.Resource.Drawable.abc_ratingbar_indicator_material = global::AndroidCourse.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::CharadesLibrary.Resource.Drawable.abc_ratingbar_material = global::AndroidCourse.Resource.Drawable.abc_ratingbar_material;
+			global::CharadesLibrary.Resource.Drawable.abc_ratingbar_small_material = global::AndroidCourse.Resource.Drawable.abc_ratingbar_small_material;
+			global::CharadesLibrary.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::AndroidCourse.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::CharadesLibrary.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::AndroidCourse.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::CharadesLibrary.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::AndroidCourse.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::CharadesLibrary.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::AndroidCourse.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::CharadesLibrary.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::AndroidCourse.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::CharadesLibrary.Resource.Drawable.abc_seekbar_thumb_material = global::AndroidCourse.Resource.Drawable.abc_seekbar_thumb_material;
+			global::CharadesLibrary.Resource.Drawable.abc_seekbar_tick_mark_material = global::AndroidCourse.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::CharadesLibrary.Resource.Drawable.abc_seekbar_track_material = global::AndroidCourse.Resource.Drawable.abc_seekbar_track_material;
+			global::CharadesLibrary.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::AndroidCourse.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::CharadesLibrary.Resource.Drawable.abc_spinner_textfield_background_material = global::AndroidCourse.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::CharadesLibrary.Resource.Drawable.abc_switch_thumb_material = global::AndroidCourse.Resource.Drawable.abc_switch_thumb_material;
+			global::CharadesLibrary.Resource.Drawable.abc_switch_track_mtrl_alpha = global::AndroidCourse.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::CharadesLibrary.Resource.Drawable.abc_tab_indicator_material = global::AndroidCourse.Resource.Drawable.abc_tab_indicator_material;
+			global::CharadesLibrary.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::AndroidCourse.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::CharadesLibrary.Resource.Drawable.abc_text_cursor_material = global::AndroidCourse.Resource.Drawable.abc_text_cursor_material;
+			global::CharadesLibrary.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::AndroidCourse.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
+			global::CharadesLibrary.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::AndroidCourse.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
+			global::CharadesLibrary.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::AndroidCourse.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
+			global::CharadesLibrary.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::AndroidCourse.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
+			global::CharadesLibrary.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::AndroidCourse.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
+			global::CharadesLibrary.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::AndroidCourse.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
+			global::CharadesLibrary.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::AndroidCourse.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::CharadesLibrary.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::AndroidCourse.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::CharadesLibrary.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::AndroidCourse.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::CharadesLibrary.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::AndroidCourse.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::CharadesLibrary.Resource.Drawable.abc_textfield_search_material = global::AndroidCourse.Resource.Drawable.abc_textfield_search_material;
+			global::CharadesLibrary.Resource.Drawable.abc_vector_test = global::AndroidCourse.Resource.Drawable.abc_vector_test;
+			global::CharadesLibrary.Resource.Drawable.notification_action_background = global::AndroidCourse.Resource.Drawable.notification_action_background;
+			global::CharadesLibrary.Resource.Drawable.notification_bg = global::AndroidCourse.Resource.Drawable.notification_bg;
+			global::CharadesLibrary.Resource.Drawable.notification_bg_low = global::AndroidCourse.Resource.Drawable.notification_bg_low;
+			global::CharadesLibrary.Resource.Drawable.notification_bg_low_normal = global::AndroidCourse.Resource.Drawable.notification_bg_low_normal;
+			global::CharadesLibrary.Resource.Drawable.notification_bg_low_pressed = global::AndroidCourse.Resource.Drawable.notification_bg_low_pressed;
+			global::CharadesLibrary.Resource.Drawable.notification_bg_normal = global::AndroidCourse.Resource.Drawable.notification_bg_normal;
+			global::CharadesLibrary.Resource.Drawable.notification_bg_normal_pressed = global::AndroidCourse.Resource.Drawable.notification_bg_normal_pressed;
+			global::CharadesLibrary.Resource.Drawable.notification_icon_background = global::AndroidCourse.Resource.Drawable.notification_icon_background;
+			global::CharadesLibrary.Resource.Drawable.notification_template_icon_bg = global::AndroidCourse.Resource.Drawable.notification_template_icon_bg;
+			global::CharadesLibrary.Resource.Drawable.notification_template_icon_low_bg = global::AndroidCourse.Resource.Drawable.notification_template_icon_low_bg;
+			global::CharadesLibrary.Resource.Drawable.notification_tile_bg = global::AndroidCourse.Resource.Drawable.notification_tile_bg;
+			global::CharadesLibrary.Resource.Drawable.notify_panel_notification_icon_bg = global::AndroidCourse.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::CharadesLibrary.Resource.Drawable.tooltip_frame_dark = global::AndroidCourse.Resource.Drawable.tooltip_frame_dark;
+			global::CharadesLibrary.Resource.Drawable.tooltip_frame_light = global::AndroidCourse.Resource.Drawable.tooltip_frame_light;
+			global::CharadesLibrary.Resource.Id.ALT = global::AndroidCourse.Resource.Id.ALT;
+			global::CharadesLibrary.Resource.Id.CTRL = global::AndroidCourse.Resource.Id.CTRL;
+			global::CharadesLibrary.Resource.Id.FUNCTION = global::AndroidCourse.Resource.Id.FUNCTION;
+			global::CharadesLibrary.Resource.Id.META = global::AndroidCourse.Resource.Id.META;
+			global::CharadesLibrary.Resource.Id.SHIFT = global::AndroidCourse.Resource.Id.SHIFT;
+			global::CharadesLibrary.Resource.Id.SYM = global::AndroidCourse.Resource.Id.SYM;
+			global::CharadesLibrary.Resource.Id.action0 = global::AndroidCourse.Resource.Id.action0;
+			global::CharadesLibrary.Resource.Id.action_bar = global::AndroidCourse.Resource.Id.action_bar;
+			global::CharadesLibrary.Resource.Id.action_bar_activity_content = global::AndroidCourse.Resource.Id.action_bar_activity_content;
+			global::CharadesLibrary.Resource.Id.action_bar_container = global::AndroidCourse.Resource.Id.action_bar_container;
+			global::CharadesLibrary.Resource.Id.action_bar_root = global::AndroidCourse.Resource.Id.action_bar_root;
+			global::CharadesLibrary.Resource.Id.action_bar_spinner = global::AndroidCourse.Resource.Id.action_bar_spinner;
+			global::CharadesLibrary.Resource.Id.action_bar_subtitle = global::AndroidCourse.Resource.Id.action_bar_subtitle;
+			global::CharadesLibrary.Resource.Id.action_bar_title = global::AndroidCourse.Resource.Id.action_bar_title;
+			global::CharadesLibrary.Resource.Id.action_container = global::AndroidCourse.Resource.Id.action_container;
+			global::CharadesLibrary.Resource.Id.action_context_bar = global::AndroidCourse.Resource.Id.action_context_bar;
+			global::CharadesLibrary.Resource.Id.action_divider = global::AndroidCourse.Resource.Id.action_divider;
+			global::CharadesLibrary.Resource.Id.action_image = global::AndroidCourse.Resource.Id.action_image;
+			global::CharadesLibrary.Resource.Id.action_menu_divider = global::AndroidCourse.Resource.Id.action_menu_divider;
+			global::CharadesLibrary.Resource.Id.action_menu_presenter = global::AndroidCourse.Resource.Id.action_menu_presenter;
+			global::CharadesLibrary.Resource.Id.action_mode_bar = global::AndroidCourse.Resource.Id.action_mode_bar;
+			global::CharadesLibrary.Resource.Id.action_mode_bar_stub = global::AndroidCourse.Resource.Id.action_mode_bar_stub;
+			global::CharadesLibrary.Resource.Id.action_mode_close_button = global::AndroidCourse.Resource.Id.action_mode_close_button;
+			global::CharadesLibrary.Resource.Id.action_text = global::AndroidCourse.Resource.Id.action_text;
+			global::CharadesLibrary.Resource.Id.actions = global::AndroidCourse.Resource.Id.actions;
+			global::CharadesLibrary.Resource.Id.activity_chooser_view_content = global::AndroidCourse.Resource.Id.activity_chooser_view_content;
+			global::CharadesLibrary.Resource.Id.add = global::AndroidCourse.Resource.Id.add;
+			global::CharadesLibrary.Resource.Id.alertTitle = global::AndroidCourse.Resource.Id.alertTitle;
+			global::CharadesLibrary.Resource.Id.always = global::AndroidCourse.Resource.Id.always;
+			global::CharadesLibrary.Resource.Id.async = global::AndroidCourse.Resource.Id.async;
+			global::CharadesLibrary.Resource.Id.beginning = global::AndroidCourse.Resource.Id.beginning;
+			global::CharadesLibrary.Resource.Id.blocking = global::AndroidCourse.Resource.Id.blocking;
+			global::CharadesLibrary.Resource.Id.bottom = global::AndroidCourse.Resource.Id.bottom;
+			global::CharadesLibrary.Resource.Id.buttonPanel = global::AndroidCourse.Resource.Id.buttonPanel;
+			global::CharadesLibrary.Resource.Id.cancel_action = global::AndroidCourse.Resource.Id.cancel_action;
+			global::CharadesLibrary.Resource.Id.checkbox = global::AndroidCourse.Resource.Id.checkbox;
+			global::CharadesLibrary.Resource.Id.chronometer = global::AndroidCourse.Resource.Id.chronometer;
+			global::CharadesLibrary.Resource.Id.collapseActionView = global::AndroidCourse.Resource.Id.collapseActionView;
+			global::CharadesLibrary.Resource.Id.contentPanel = global::AndroidCourse.Resource.Id.contentPanel;
+			global::CharadesLibrary.Resource.Id.custom = global::AndroidCourse.Resource.Id.custom;
+			global::CharadesLibrary.Resource.Id.customPanel = global::AndroidCourse.Resource.Id.customPanel;
+			global::CharadesLibrary.Resource.Id.decor_content_parent = global::AndroidCourse.Resource.Id.decor_content_parent;
+			global::CharadesLibrary.Resource.Id.default_activity_button = global::AndroidCourse.Resource.Id.default_activity_button;
+			global::CharadesLibrary.Resource.Id.disableHome = global::AndroidCourse.Resource.Id.disableHome;
+			global::CharadesLibrary.Resource.Id.edit_query = global::AndroidCourse.Resource.Id.edit_query;
+			global::CharadesLibrary.Resource.Id.end = global::AndroidCourse.Resource.Id.end;
+			global::CharadesLibrary.Resource.Id.end_padder = global::AndroidCourse.Resource.Id.end_padder;
+			global::CharadesLibrary.Resource.Id.expand_activities_button = global::AndroidCourse.Resource.Id.expand_activities_button;
+			global::CharadesLibrary.Resource.Id.expanded_menu = global::AndroidCourse.Resource.Id.expanded_menu;
+			global::CharadesLibrary.Resource.Id.forever = global::AndroidCourse.Resource.Id.forever;
+			global::CharadesLibrary.Resource.Id.home = global::AndroidCourse.Resource.Id.home;
+			global::CharadesLibrary.Resource.Id.homeAsUp = global::AndroidCourse.Resource.Id.homeAsUp;
+			global::CharadesLibrary.Resource.Id.icon = global::AndroidCourse.Resource.Id.icon;
+			global::CharadesLibrary.Resource.Id.icon_group = global::AndroidCourse.Resource.Id.icon_group;
+			global::CharadesLibrary.Resource.Id.ifRoom = global::AndroidCourse.Resource.Id.ifRoom;
+			global::CharadesLibrary.Resource.Id.image = global::AndroidCourse.Resource.Id.image;
+			global::CharadesLibrary.Resource.Id.info = global::AndroidCourse.Resource.Id.info;
+			global::CharadesLibrary.Resource.Id.italic = global::AndroidCourse.Resource.Id.italic;
+			global::CharadesLibrary.Resource.Id.line1 = global::AndroidCourse.Resource.Id.line1;
+			global::CharadesLibrary.Resource.Id.line3 = global::AndroidCourse.Resource.Id.line3;
+			global::CharadesLibrary.Resource.Id.listMode = global::AndroidCourse.Resource.Id.listMode;
+			global::CharadesLibrary.Resource.Id.list_item = global::AndroidCourse.Resource.Id.list_item;
+			global::CharadesLibrary.Resource.Id.media_actions = global::AndroidCourse.Resource.Id.media_actions;
+			global::CharadesLibrary.Resource.Id.message = global::AndroidCourse.Resource.Id.message;
+			global::CharadesLibrary.Resource.Id.middle = global::AndroidCourse.Resource.Id.middle;
+			global::CharadesLibrary.Resource.Id.multiply = global::AndroidCourse.Resource.Id.multiply;
+			global::CharadesLibrary.Resource.Id.never = global::AndroidCourse.Resource.Id.never;
+			global::CharadesLibrary.Resource.Id.none = global::AndroidCourse.Resource.Id.none;
+			global::CharadesLibrary.Resource.Id.normal = global::AndroidCourse.Resource.Id.normal;
+			global::CharadesLibrary.Resource.Id.notification_background = global::AndroidCourse.Resource.Id.notification_background;
+			global::CharadesLibrary.Resource.Id.notification_main_column = global::AndroidCourse.Resource.Id.notification_main_column;
+			global::CharadesLibrary.Resource.Id.notification_main_column_container = global::AndroidCourse.Resource.Id.notification_main_column_container;
+			global::CharadesLibrary.Resource.Id.parentPanel = global::AndroidCourse.Resource.Id.parentPanel;
+			global::CharadesLibrary.Resource.Id.progress_circular = global::AndroidCourse.Resource.Id.progress_circular;
+			global::CharadesLibrary.Resource.Id.progress_horizontal = global::AndroidCourse.Resource.Id.progress_horizontal;
+			global::CharadesLibrary.Resource.Id.radio = global::AndroidCourse.Resource.Id.radio;
+			global::CharadesLibrary.Resource.Id.right_icon = global::AndroidCourse.Resource.Id.right_icon;
+			global::CharadesLibrary.Resource.Id.right_side = global::AndroidCourse.Resource.Id.right_side;
+			global::CharadesLibrary.Resource.Id.screen = global::AndroidCourse.Resource.Id.screen;
+			global::CharadesLibrary.Resource.Id.scrollIndicatorDown = global::AndroidCourse.Resource.Id.scrollIndicatorDown;
+			global::CharadesLibrary.Resource.Id.scrollIndicatorUp = global::AndroidCourse.Resource.Id.scrollIndicatorUp;
+			global::CharadesLibrary.Resource.Id.scrollView = global::AndroidCourse.Resource.Id.scrollView;
+			global::CharadesLibrary.Resource.Id.search_badge = global::AndroidCourse.Resource.Id.search_badge;
+			global::CharadesLibrary.Resource.Id.search_bar = global::AndroidCourse.Resource.Id.search_bar;
+			global::CharadesLibrary.Resource.Id.search_button = global::AndroidCourse.Resource.Id.search_button;
+			global::CharadesLibrary.Resource.Id.search_close_btn = global::AndroidCourse.Resource.Id.search_close_btn;
+			global::CharadesLibrary.Resource.Id.search_edit_frame = global::AndroidCourse.Resource.Id.search_edit_frame;
+			global::CharadesLibrary.Resource.Id.search_go_btn = global::AndroidCourse.Resource.Id.search_go_btn;
+			global::CharadesLibrary.Resource.Id.search_mag_icon = global::AndroidCourse.Resource.Id.search_mag_icon;
+			global::CharadesLibrary.Resource.Id.search_plate = global::AndroidCourse.Resource.Id.search_plate;
+			global::CharadesLibrary.Resource.Id.search_src_text = global::AndroidCourse.Resource.Id.search_src_text;
+			global::CharadesLibrary.Resource.Id.search_voice_btn = global::AndroidCourse.Resource.Id.search_voice_btn;
+			global::CharadesLibrary.Resource.Id.select_dialog_listview = global::AndroidCourse.Resource.Id.select_dialog_listview;
+			global::CharadesLibrary.Resource.Id.shortcut = global::AndroidCourse.Resource.Id.shortcut;
+			global::CharadesLibrary.Resource.Id.showCustom = global::AndroidCourse.Resource.Id.showCustom;
+			global::CharadesLibrary.Resource.Id.showHome = global::AndroidCourse.Resource.Id.showHome;
+			global::CharadesLibrary.Resource.Id.showTitle = global::AndroidCourse.Resource.Id.showTitle;
+			global::CharadesLibrary.Resource.Id.spacer = global::AndroidCourse.Resource.Id.spacer;
+			global::CharadesLibrary.Resource.Id.split_action_bar = global::AndroidCourse.Resource.Id.split_action_bar;
+			global::CharadesLibrary.Resource.Id.src_atop = global::AndroidCourse.Resource.Id.src_atop;
+			global::CharadesLibrary.Resource.Id.src_in = global::AndroidCourse.Resource.Id.src_in;
+			global::CharadesLibrary.Resource.Id.src_over = global::AndroidCourse.Resource.Id.src_over;
+			global::CharadesLibrary.Resource.Id.status_bar_latest_event_content = global::AndroidCourse.Resource.Id.status_bar_latest_event_content;
+			global::CharadesLibrary.Resource.Id.submenuarrow = global::AndroidCourse.Resource.Id.submenuarrow;
+			global::CharadesLibrary.Resource.Id.submit_area = global::AndroidCourse.Resource.Id.submit_area;
+			global::CharadesLibrary.Resource.Id.tabMode = global::AndroidCourse.Resource.Id.tabMode;
+			global::CharadesLibrary.Resource.Id.tag_transition_group = global::AndroidCourse.Resource.Id.tag_transition_group;
+			global::CharadesLibrary.Resource.Id.text = global::AndroidCourse.Resource.Id.text;
+			global::CharadesLibrary.Resource.Id.text2 = global::AndroidCourse.Resource.Id.text2;
+			global::CharadesLibrary.Resource.Id.textSpacerNoButtons = global::AndroidCourse.Resource.Id.textSpacerNoButtons;
+			global::CharadesLibrary.Resource.Id.textSpacerNoTitle = global::AndroidCourse.Resource.Id.textSpacerNoTitle;
+			global::CharadesLibrary.Resource.Id.time = global::AndroidCourse.Resource.Id.time;
+			global::CharadesLibrary.Resource.Id.title = global::AndroidCourse.Resource.Id.title;
+			global::CharadesLibrary.Resource.Id.titleDividerNoCustom = global::AndroidCourse.Resource.Id.titleDividerNoCustom;
+			global::CharadesLibrary.Resource.Id.title_template = global::AndroidCourse.Resource.Id.title_template;
+			global::CharadesLibrary.Resource.Id.top = global::AndroidCourse.Resource.Id.top;
+			global::CharadesLibrary.Resource.Id.topPanel = global::AndroidCourse.Resource.Id.topPanel;
+			global::CharadesLibrary.Resource.Id.uniform = global::AndroidCourse.Resource.Id.uniform;
+			global::CharadesLibrary.Resource.Id.up = global::AndroidCourse.Resource.Id.up;
+			global::CharadesLibrary.Resource.Id.useLogo = global::AndroidCourse.Resource.Id.useLogo;
+			global::CharadesLibrary.Resource.Id.withText = global::AndroidCourse.Resource.Id.withText;
+			global::CharadesLibrary.Resource.Id.wrap_content = global::AndroidCourse.Resource.Id.wrap_content;
+			global::CharadesLibrary.Resource.Integer.abc_config_activityDefaultDur = global::AndroidCourse.Resource.Integer.abc_config_activityDefaultDur;
+			global::CharadesLibrary.Resource.Integer.abc_config_activityShortDur = global::AndroidCourse.Resource.Integer.abc_config_activityShortDur;
+			global::CharadesLibrary.Resource.Integer.cancel_button_image_alpha = global::AndroidCourse.Resource.Integer.cancel_button_image_alpha;
+			global::CharadesLibrary.Resource.Integer.config_tooltipAnimTime = global::AndroidCourse.Resource.Integer.config_tooltipAnimTime;
+			global::CharadesLibrary.Resource.Integer.status_bar_notification_info_maxnum = global::AndroidCourse.Resource.Integer.status_bar_notification_info_maxnum;
+			global::CharadesLibrary.Resource.Layout.abc_action_bar_title_item = global::AndroidCourse.Resource.Layout.abc_action_bar_title_item;
+			global::CharadesLibrary.Resource.Layout.abc_action_bar_up_container = global::AndroidCourse.Resource.Layout.abc_action_bar_up_container;
+			global::CharadesLibrary.Resource.Layout.abc_action_menu_item_layout = global::AndroidCourse.Resource.Layout.abc_action_menu_item_layout;
+			global::CharadesLibrary.Resource.Layout.abc_action_menu_layout = global::AndroidCourse.Resource.Layout.abc_action_menu_layout;
+			global::CharadesLibrary.Resource.Layout.abc_action_mode_bar = global::AndroidCourse.Resource.Layout.abc_action_mode_bar;
+			global::CharadesLibrary.Resource.Layout.abc_action_mode_close_item_material = global::AndroidCourse.Resource.Layout.abc_action_mode_close_item_material;
+			global::CharadesLibrary.Resource.Layout.abc_activity_chooser_view = global::AndroidCourse.Resource.Layout.abc_activity_chooser_view;
+			global::CharadesLibrary.Resource.Layout.abc_activity_chooser_view_list_item = global::AndroidCourse.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::CharadesLibrary.Resource.Layout.abc_alert_dialog_button_bar_material = global::AndroidCourse.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::CharadesLibrary.Resource.Layout.abc_alert_dialog_material = global::AndroidCourse.Resource.Layout.abc_alert_dialog_material;
+			global::CharadesLibrary.Resource.Layout.abc_alert_dialog_title_material = global::AndroidCourse.Resource.Layout.abc_alert_dialog_title_material;
+			global::CharadesLibrary.Resource.Layout.abc_dialog_title_material = global::AndroidCourse.Resource.Layout.abc_dialog_title_material;
+			global::CharadesLibrary.Resource.Layout.abc_expanded_menu_layout = global::AndroidCourse.Resource.Layout.abc_expanded_menu_layout;
+			global::CharadesLibrary.Resource.Layout.abc_list_menu_item_checkbox = global::AndroidCourse.Resource.Layout.abc_list_menu_item_checkbox;
+			global::CharadesLibrary.Resource.Layout.abc_list_menu_item_icon = global::AndroidCourse.Resource.Layout.abc_list_menu_item_icon;
+			global::CharadesLibrary.Resource.Layout.abc_list_menu_item_layout = global::AndroidCourse.Resource.Layout.abc_list_menu_item_layout;
+			global::CharadesLibrary.Resource.Layout.abc_list_menu_item_radio = global::AndroidCourse.Resource.Layout.abc_list_menu_item_radio;
+			global::CharadesLibrary.Resource.Layout.abc_popup_menu_header_item_layout = global::AndroidCourse.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::CharadesLibrary.Resource.Layout.abc_popup_menu_item_layout = global::AndroidCourse.Resource.Layout.abc_popup_menu_item_layout;
+			global::CharadesLibrary.Resource.Layout.abc_screen_content_include = global::AndroidCourse.Resource.Layout.abc_screen_content_include;
+			global::CharadesLibrary.Resource.Layout.abc_screen_simple = global::AndroidCourse.Resource.Layout.abc_screen_simple;
+			global::CharadesLibrary.Resource.Layout.abc_screen_simple_overlay_action_mode = global::AndroidCourse.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::CharadesLibrary.Resource.Layout.abc_screen_toolbar = global::AndroidCourse.Resource.Layout.abc_screen_toolbar;
+			global::CharadesLibrary.Resource.Layout.abc_search_dropdown_item_icons_2line = global::AndroidCourse.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::CharadesLibrary.Resource.Layout.abc_search_view = global::AndroidCourse.Resource.Layout.abc_search_view;
+			global::CharadesLibrary.Resource.Layout.abc_select_dialog_material = global::AndroidCourse.Resource.Layout.abc_select_dialog_material;
+			global::CharadesLibrary.Resource.Layout.notification_action = global::AndroidCourse.Resource.Layout.notification_action;
+			global::CharadesLibrary.Resource.Layout.notification_action_tombstone = global::AndroidCourse.Resource.Layout.notification_action_tombstone;
+			global::CharadesLibrary.Resource.Layout.notification_media_action = global::AndroidCourse.Resource.Layout.notification_media_action;
+			global::CharadesLibrary.Resource.Layout.notification_media_cancel_action = global::AndroidCourse.Resource.Layout.notification_media_cancel_action;
+			global::CharadesLibrary.Resource.Layout.notification_template_big_media = global::AndroidCourse.Resource.Layout.notification_template_big_media;
+			global::CharadesLibrary.Resource.Layout.notification_template_big_media_custom = global::AndroidCourse.Resource.Layout.notification_template_big_media_custom;
+			global::CharadesLibrary.Resource.Layout.notification_template_big_media_narrow = global::AndroidCourse.Resource.Layout.notification_template_big_media_narrow;
+			global::CharadesLibrary.Resource.Layout.notification_template_big_media_narrow_custom = global::AndroidCourse.Resource.Layout.notification_template_big_media_narrow_custom;
+			global::CharadesLibrary.Resource.Layout.notification_template_custom_big = global::AndroidCourse.Resource.Layout.notification_template_custom_big;
+			global::CharadesLibrary.Resource.Layout.notification_template_icon_group = global::AndroidCourse.Resource.Layout.notification_template_icon_group;
+			global::CharadesLibrary.Resource.Layout.notification_template_lines_media = global::AndroidCourse.Resource.Layout.notification_template_lines_media;
+			global::CharadesLibrary.Resource.Layout.notification_template_media = global::AndroidCourse.Resource.Layout.notification_template_media;
+			global::CharadesLibrary.Resource.Layout.notification_template_media_custom = global::AndroidCourse.Resource.Layout.notification_template_media_custom;
+			global::CharadesLibrary.Resource.Layout.notification_template_part_chronometer = global::AndroidCourse.Resource.Layout.notification_template_part_chronometer;
+			global::CharadesLibrary.Resource.Layout.notification_template_part_time = global::AndroidCourse.Resource.Layout.notification_template_part_time;
+			global::CharadesLibrary.Resource.Layout.select_dialog_item_material = global::AndroidCourse.Resource.Layout.select_dialog_item_material;
+			global::CharadesLibrary.Resource.Layout.select_dialog_multichoice_material = global::AndroidCourse.Resource.Layout.select_dialog_multichoice_material;
+			global::CharadesLibrary.Resource.Layout.select_dialog_singlechoice_material = global::AndroidCourse.Resource.Layout.select_dialog_singlechoice_material;
+			global::CharadesLibrary.Resource.Layout.support_simple_spinner_dropdown_item = global::AndroidCourse.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::CharadesLibrary.Resource.Layout.tooltip = global::AndroidCourse.Resource.Layout.tooltip;
+			global::CharadesLibrary.Resource.String.abc_action_bar_home_description = global::AndroidCourse.Resource.String.abc_action_bar_home_description;
+			global::CharadesLibrary.Resource.String.abc_action_bar_up_description = global::AndroidCourse.Resource.String.abc_action_bar_up_description;
+			global::CharadesLibrary.Resource.String.abc_action_menu_overflow_description = global::AndroidCourse.Resource.String.abc_action_menu_overflow_description;
+			global::CharadesLibrary.Resource.String.abc_action_mode_done = global::AndroidCourse.Resource.String.abc_action_mode_done;
+			global::CharadesLibrary.Resource.String.abc_activity_chooser_view_see_all = global::AndroidCourse.Resource.String.abc_activity_chooser_view_see_all;
+			global::CharadesLibrary.Resource.String.abc_activitychooserview_choose_application = global::AndroidCourse.Resource.String.abc_activitychooserview_choose_application;
+			global::CharadesLibrary.Resource.String.abc_capital_off = global::AndroidCourse.Resource.String.abc_capital_off;
+			global::CharadesLibrary.Resource.String.abc_capital_on = global::AndroidCourse.Resource.String.abc_capital_on;
+			global::CharadesLibrary.Resource.String.abc_font_family_body_1_material = global::AndroidCourse.Resource.String.abc_font_family_body_1_material;
+			global::CharadesLibrary.Resource.String.abc_font_family_body_2_material = global::AndroidCourse.Resource.String.abc_font_family_body_2_material;
+			global::CharadesLibrary.Resource.String.abc_font_family_button_material = global::AndroidCourse.Resource.String.abc_font_family_button_material;
+			global::CharadesLibrary.Resource.String.abc_font_family_caption_material = global::AndroidCourse.Resource.String.abc_font_family_caption_material;
+			global::CharadesLibrary.Resource.String.abc_font_family_display_1_material = global::AndroidCourse.Resource.String.abc_font_family_display_1_material;
+			global::CharadesLibrary.Resource.String.abc_font_family_display_2_material = global::AndroidCourse.Resource.String.abc_font_family_display_2_material;
+			global::CharadesLibrary.Resource.String.abc_font_family_display_3_material = global::AndroidCourse.Resource.String.abc_font_family_display_3_material;
+			global::CharadesLibrary.Resource.String.abc_font_family_display_4_material = global::AndroidCourse.Resource.String.abc_font_family_display_4_material;
+			global::CharadesLibrary.Resource.String.abc_font_family_headline_material = global::AndroidCourse.Resource.String.abc_font_family_headline_material;
+			global::CharadesLibrary.Resource.String.abc_font_family_menu_material = global::AndroidCourse.Resource.String.abc_font_family_menu_material;
+			global::CharadesLibrary.Resource.String.abc_font_family_subhead_material = global::AndroidCourse.Resource.String.abc_font_family_subhead_material;
+			global::CharadesLibrary.Resource.String.abc_font_family_title_material = global::AndroidCourse.Resource.String.abc_font_family_title_material;
+			global::CharadesLibrary.Resource.String.abc_search_hint = global::AndroidCourse.Resource.String.abc_search_hint;
+			global::CharadesLibrary.Resource.String.abc_searchview_description_clear = global::AndroidCourse.Resource.String.abc_searchview_description_clear;
+			global::CharadesLibrary.Resource.String.abc_searchview_description_query = global::AndroidCourse.Resource.String.abc_searchview_description_query;
+			global::CharadesLibrary.Resource.String.abc_searchview_description_search = global::AndroidCourse.Resource.String.abc_searchview_description_search;
+			global::CharadesLibrary.Resource.String.abc_searchview_description_submit = global::AndroidCourse.Resource.String.abc_searchview_description_submit;
+			global::CharadesLibrary.Resource.String.abc_searchview_description_voice = global::AndroidCourse.Resource.String.abc_searchview_description_voice;
+			global::CharadesLibrary.Resource.String.abc_shareactionprovider_share_with = global::AndroidCourse.Resource.String.abc_shareactionprovider_share_with;
+			global::CharadesLibrary.Resource.String.abc_shareactionprovider_share_with_application = global::AndroidCourse.Resource.String.abc_shareactionprovider_share_with_application;
+			global::CharadesLibrary.Resource.String.abc_toolbar_collapse_description = global::AndroidCourse.Resource.String.abc_toolbar_collapse_description;
+			global::CharadesLibrary.Resource.String.app_name = global::AndroidCourse.Resource.String.app_name;
+			global::CharadesLibrary.Resource.String.hello = global::AndroidCourse.Resource.String.hello;
+			global::CharadesLibrary.Resource.String.search_menu_title = global::AndroidCourse.Resource.String.search_menu_title;
+			global::CharadesLibrary.Resource.String.status_bar_notification_info_overflow = global::AndroidCourse.Resource.String.status_bar_notification_info_overflow;
+			global::CharadesLibrary.Resource.Style.AlertDialog_AppCompat = global::AndroidCourse.Resource.Style.AlertDialog_AppCompat;
+			global::CharadesLibrary.Resource.Style.AlertDialog_AppCompat_Light = global::AndroidCourse.Resource.Style.AlertDialog_AppCompat_Light;
+			global::CharadesLibrary.Resource.Style.Animation_AppCompat_Dialog = global::AndroidCourse.Resource.Style.Animation_AppCompat_Dialog;
+			global::CharadesLibrary.Resource.Style.Animation_AppCompat_DropDownUp = global::AndroidCourse.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::CharadesLibrary.Resource.Style.Animation_AppCompat_Tooltip = global::AndroidCourse.Resource.Style.Animation_AppCompat_Tooltip;
+			global::CharadesLibrary.Resource.Style.Base_AlertDialog_AppCompat = global::AndroidCourse.Resource.Style.Base_AlertDialog_AppCompat;
+			global::CharadesLibrary.Resource.Style.Base_AlertDialog_AppCompat_Light = global::AndroidCourse.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::CharadesLibrary.Resource.Style.Base_Animation_AppCompat_Dialog = global::AndroidCourse.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::CharadesLibrary.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::AndroidCourse.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::CharadesLibrary.Resource.Style.Base_Animation_AppCompat_Tooltip = global::AndroidCourse.Resource.Style.Base_Animation_AppCompat_Tooltip;
+			global::CharadesLibrary.Resource.Style.Base_DialogWindowTitle_AppCompat = global::AndroidCourse.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::CharadesLibrary.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::AndroidCourse.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_AppCompat = global::AndroidCourse.Resource.Style.Base_TextAppearance_AppCompat;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::AndroidCourse.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::AndroidCourse.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_AppCompat_Button = global::AndroidCourse.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::AndroidCourse.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::AndroidCourse.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::AndroidCourse.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::AndroidCourse.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::AndroidCourse.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::AndroidCourse.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::AndroidCourse.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_AppCompat_Large = global::AndroidCourse.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::AndroidCourse.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::AndroidCourse.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::AndroidCourse.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::AndroidCourse.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::AndroidCourse.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::AndroidCourse.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::AndroidCourse.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::AndroidCourse.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::AndroidCourse.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_AppCompat_Small = global::AndroidCourse.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::AndroidCourse.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::AndroidCourse.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::AndroidCourse.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_AppCompat_Title = global::AndroidCourse.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::AndroidCourse.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::AndroidCourse.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::AndroidCourse.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::AndroidCourse.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::AndroidCourse.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::AndroidCourse.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::AndroidCourse.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::AndroidCourse.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::AndroidCourse.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::AndroidCourse.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::AndroidCourse.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::AndroidCourse.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::AndroidCourse.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::AndroidCourse.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::AndroidCourse.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::AndroidCourse.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::AndroidCourse.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::AndroidCourse.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::AndroidCourse.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::AndroidCourse.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::AndroidCourse.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::CharadesLibrary.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::AndroidCourse.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::CharadesLibrary.Resource.Style.Base_Theme_AppCompat = global::AndroidCourse.Resource.Style.Base_Theme_AppCompat;
+			global::CharadesLibrary.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::AndroidCourse.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::CharadesLibrary.Resource.Style.Base_Theme_AppCompat_Dialog = global::AndroidCourse.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::CharadesLibrary.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::AndroidCourse.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::CharadesLibrary.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::AndroidCourse.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::CharadesLibrary.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::AndroidCourse.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::CharadesLibrary.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::AndroidCourse.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::CharadesLibrary.Resource.Style.Base_Theme_AppCompat_Light = global::AndroidCourse.Resource.Style.Base_Theme_AppCompat_Light;
+			global::CharadesLibrary.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::AndroidCourse.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::CharadesLibrary.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::AndroidCourse.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::CharadesLibrary.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::AndroidCourse.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::CharadesLibrary.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::AndroidCourse.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::CharadesLibrary.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::AndroidCourse.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::CharadesLibrary.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::AndroidCourse.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::CharadesLibrary.Resource.Style.Base_ThemeOverlay_AppCompat = global::AndroidCourse.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::CharadesLibrary.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::AndroidCourse.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::CharadesLibrary.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::AndroidCourse.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::CharadesLibrary.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::AndroidCourse.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::CharadesLibrary.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::AndroidCourse.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::CharadesLibrary.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::AndroidCourse.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::CharadesLibrary.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::AndroidCourse.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::CharadesLibrary.Resource.Style.Base_V11_Theme_AppCompat_Dialog = global::AndroidCourse.Resource.Style.Base_V11_Theme_AppCompat_Dialog;
+			global::CharadesLibrary.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog = global::AndroidCourse.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog;
+			global::CharadesLibrary.Resource.Style.Base_V11_ThemeOverlay_AppCompat_Dialog = global::AndroidCourse.Resource.Style.Base_V11_ThemeOverlay_AppCompat_Dialog;
+			global::CharadesLibrary.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView = global::AndroidCourse.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView;
+			global::CharadesLibrary.Resource.Style.Base_V12_Widget_AppCompat_EditText = global::AndroidCourse.Resource.Style.Base_V12_Widget_AppCompat_EditText;
+			global::CharadesLibrary.Resource.Style.Base_V21_Theme_AppCompat = global::AndroidCourse.Resource.Style.Base_V21_Theme_AppCompat;
+			global::CharadesLibrary.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::AndroidCourse.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::CharadesLibrary.Resource.Style.Base_V21_Theme_AppCompat_Light = global::AndroidCourse.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::CharadesLibrary.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::AndroidCourse.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::CharadesLibrary.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::AndroidCourse.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::CharadesLibrary.Resource.Style.Base_V22_Theme_AppCompat = global::AndroidCourse.Resource.Style.Base_V22_Theme_AppCompat;
+			global::CharadesLibrary.Resource.Style.Base_V22_Theme_AppCompat_Light = global::AndroidCourse.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::CharadesLibrary.Resource.Style.Base_V23_Theme_AppCompat = global::AndroidCourse.Resource.Style.Base_V23_Theme_AppCompat;
+			global::CharadesLibrary.Resource.Style.Base_V23_Theme_AppCompat_Light = global::AndroidCourse.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::CharadesLibrary.Resource.Style.Base_V26_Theme_AppCompat = global::AndroidCourse.Resource.Style.Base_V26_Theme_AppCompat;
+			global::CharadesLibrary.Resource.Style.Base_V26_Theme_AppCompat_Light = global::AndroidCourse.Resource.Style.Base_V26_Theme_AppCompat_Light;
+			global::CharadesLibrary.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::AndroidCourse.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
+			global::CharadesLibrary.Resource.Style.Base_V7_Theme_AppCompat = global::AndroidCourse.Resource.Style.Base_V7_Theme_AppCompat;
+			global::CharadesLibrary.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::AndroidCourse.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::CharadesLibrary.Resource.Style.Base_V7_Theme_AppCompat_Light = global::AndroidCourse.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::CharadesLibrary.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::AndroidCourse.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::CharadesLibrary.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::AndroidCourse.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::CharadesLibrary.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::AndroidCourse.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::CharadesLibrary.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::AndroidCourse.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::CharadesLibrary.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::AndroidCourse.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_ActionBar = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_ActionButton = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_ActionMode = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_Button = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_Button;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_Button_Small = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_EditText = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_ImageButton = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_ListView = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_RatingBar = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_SearchView = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_SeekBar = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_Spinner = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_Toolbar = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::CharadesLibrary.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::AndroidCourse.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::CharadesLibrary.Resource.Style.Platform_AppCompat = global::AndroidCourse.Resource.Style.Platform_AppCompat;
+			global::CharadesLibrary.Resource.Style.Platform_AppCompat_Light = global::AndroidCourse.Resource.Style.Platform_AppCompat_Light;
+			global::CharadesLibrary.Resource.Style.Platform_ThemeOverlay_AppCompat = global::AndroidCourse.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::CharadesLibrary.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::AndroidCourse.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::CharadesLibrary.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::AndroidCourse.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::CharadesLibrary.Resource.Style.Platform_V11_AppCompat = global::AndroidCourse.Resource.Style.Platform_V11_AppCompat;
+			global::CharadesLibrary.Resource.Style.Platform_V11_AppCompat_Light = global::AndroidCourse.Resource.Style.Platform_V11_AppCompat_Light;
+			global::CharadesLibrary.Resource.Style.Platform_V14_AppCompat = global::AndroidCourse.Resource.Style.Platform_V14_AppCompat;
+			global::CharadesLibrary.Resource.Style.Platform_V14_AppCompat_Light = global::AndroidCourse.Resource.Style.Platform_V14_AppCompat_Light;
+			global::CharadesLibrary.Resource.Style.Platform_V21_AppCompat = global::AndroidCourse.Resource.Style.Platform_V21_AppCompat;
+			global::CharadesLibrary.Resource.Style.Platform_V21_AppCompat_Light = global::AndroidCourse.Resource.Style.Platform_V21_AppCompat_Light;
+			global::CharadesLibrary.Resource.Style.Platform_V25_AppCompat = global::AndroidCourse.Resource.Style.Platform_V25_AppCompat;
+			global::CharadesLibrary.Resource.Style.Platform_V25_AppCompat_Light = global::AndroidCourse.Resource.Style.Platform_V25_AppCompat_Light;
+			global::CharadesLibrary.Resource.Style.Platform_Widget_AppCompat_Spinner = global::AndroidCourse.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::CharadesLibrary.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::AndroidCourse.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::CharadesLibrary.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::AndroidCourse.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::CharadesLibrary.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::AndroidCourse.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::CharadesLibrary.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::AndroidCourse.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::CharadesLibrary.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::AndroidCourse.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::CharadesLibrary.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::AndroidCourse.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::CharadesLibrary.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::AndroidCourse.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::CharadesLibrary.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::AndroidCourse.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::CharadesLibrary.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::AndroidCourse.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::CharadesLibrary.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::AndroidCourse.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::CharadesLibrary.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::AndroidCourse.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::CharadesLibrary.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::AndroidCourse.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::CharadesLibrary.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::AndroidCourse.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::CharadesLibrary.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::AndroidCourse.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat_Body1 = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat_Body2 = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat_Button = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat_Button;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat_Caption = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat_Display1 = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat_Display2 = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat_Display3 = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat_Display4 = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat_Headline = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat_Inverse = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat_Large = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat_Large;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat_Medium = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat_Menu = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat_Small = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat_Small;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat_Subhead = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat_Title = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat_Title;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat_Tooltip = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat_Tooltip;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::CharadesLibrary.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::AndroidCourse.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::CharadesLibrary.Resource.Style.TextAppearance_Compat_Notification = global::AndroidCourse.Resource.Style.TextAppearance_Compat_Notification;
+			global::CharadesLibrary.Resource.Style.TextAppearance_Compat_Notification_Info = global::AndroidCourse.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::CharadesLibrary.Resource.Style.TextAppearance_Compat_Notification_Info_Media = global::AndroidCourse.Resource.Style.TextAppearance_Compat_Notification_Info_Media;
+			global::CharadesLibrary.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::AndroidCourse.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::CharadesLibrary.Resource.Style.TextAppearance_Compat_Notification_Line2_Media = global::AndroidCourse.Resource.Style.TextAppearance_Compat_Notification_Line2_Media;
+			global::CharadesLibrary.Resource.Style.TextAppearance_Compat_Notification_Media = global::AndroidCourse.Resource.Style.TextAppearance_Compat_Notification_Media;
+			global::CharadesLibrary.Resource.Style.TextAppearance_Compat_Notification_Time = global::AndroidCourse.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::CharadesLibrary.Resource.Style.TextAppearance_Compat_Notification_Time_Media = global::AndroidCourse.Resource.Style.TextAppearance_Compat_Notification_Time_Media;
+			global::CharadesLibrary.Resource.Style.TextAppearance_Compat_Notification_Title = global::AndroidCourse.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::CharadesLibrary.Resource.Style.TextAppearance_Compat_Notification_Title_Media = global::AndroidCourse.Resource.Style.TextAppearance_Compat_Notification_Title_Media;
+			global::CharadesLibrary.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::AndroidCourse.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::CharadesLibrary.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::AndroidCourse.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::CharadesLibrary.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::AndroidCourse.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::CharadesLibrary.Resource.Style.Theme_AppCompat = global::AndroidCourse.Resource.Style.Theme_AppCompat;
+			global::CharadesLibrary.Resource.Style.Theme_AppCompat_CompactMenu = global::AndroidCourse.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::CharadesLibrary.Resource.Style.Theme_AppCompat_DayNight = global::AndroidCourse.Resource.Style.Theme_AppCompat_DayNight;
+			global::CharadesLibrary.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::AndroidCourse.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::CharadesLibrary.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::AndroidCourse.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::CharadesLibrary.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::AndroidCourse.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::CharadesLibrary.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::AndroidCourse.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::CharadesLibrary.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::AndroidCourse.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::CharadesLibrary.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::AndroidCourse.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::CharadesLibrary.Resource.Style.Theme_AppCompat_Dialog = global::AndroidCourse.Resource.Style.Theme_AppCompat_Dialog;
+			global::CharadesLibrary.Resource.Style.Theme_AppCompat_Dialog_Alert = global::AndroidCourse.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::CharadesLibrary.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::AndroidCourse.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::CharadesLibrary.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::AndroidCourse.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::CharadesLibrary.Resource.Style.Theme_AppCompat_Light = global::AndroidCourse.Resource.Style.Theme_AppCompat_Light;
+			global::CharadesLibrary.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::AndroidCourse.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::CharadesLibrary.Resource.Style.Theme_AppCompat_Light_Dialog = global::AndroidCourse.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::CharadesLibrary.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::AndroidCourse.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::CharadesLibrary.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::AndroidCourse.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::CharadesLibrary.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::AndroidCourse.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::CharadesLibrary.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::AndroidCourse.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::CharadesLibrary.Resource.Style.Theme_AppCompat_NoActionBar = global::AndroidCourse.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::CharadesLibrary.Resource.Style.ThemeOverlay_AppCompat = global::AndroidCourse.Resource.Style.ThemeOverlay_AppCompat;
+			global::CharadesLibrary.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::AndroidCourse.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::CharadesLibrary.Resource.Style.ThemeOverlay_AppCompat_Dark = global::AndroidCourse.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::CharadesLibrary.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::AndroidCourse.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::CharadesLibrary.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::AndroidCourse.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::CharadesLibrary.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::AndroidCourse.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::CharadesLibrary.Resource.Style.ThemeOverlay_AppCompat_Light = global::AndroidCourse.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_ActionBar = global::AndroidCourse.Resource.Style.Widget_AppCompat_ActionBar;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::AndroidCourse.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::AndroidCourse.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::AndroidCourse.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::AndroidCourse.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_ActionButton = global::AndroidCourse.Resource.Style.Widget_AppCompat_ActionButton;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::AndroidCourse.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::AndroidCourse.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_ActionMode = global::AndroidCourse.Resource.Style.Widget_AppCompat_ActionMode;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_ActivityChooserView = global::AndroidCourse.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::AndroidCourse.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_Button = global::AndroidCourse.Resource.Style.Widget_AppCompat_Button;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_Button_Borderless = global::AndroidCourse.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::AndroidCourse.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::AndroidCourse.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_Button_Colored = global::AndroidCourse.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_Button_Small = global::AndroidCourse.Resource.Style.Widget_AppCompat_Button_Small;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_ButtonBar = global::AndroidCourse.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::AndroidCourse.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::AndroidCourse.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::AndroidCourse.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::AndroidCourse.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::AndroidCourse.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::AndroidCourse.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_EditText = global::AndroidCourse.Resource.Style.Widget_AppCompat_EditText;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_ImageButton = global::AndroidCourse.Resource.Style.Widget_AppCompat_ImageButton;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_Light_ActionBar = global::AndroidCourse.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::AndroidCourse.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::AndroidCourse.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::AndroidCourse.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::AndroidCourse.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::AndroidCourse.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::AndroidCourse.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::AndroidCourse.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::AndroidCourse.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_Light_ActionButton = global::AndroidCourse.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::AndroidCourse.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::AndroidCourse.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::AndroidCourse.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::AndroidCourse.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::AndroidCourse.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::AndroidCourse.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::AndroidCourse.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::AndroidCourse.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::AndroidCourse.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::AndroidCourse.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_Light_SearchView = global::AndroidCourse.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::AndroidCourse.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_ListMenuView = global::AndroidCourse.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_ListPopupWindow = global::AndroidCourse.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_ListView = global::AndroidCourse.Resource.Style.Widget_AppCompat_ListView;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_ListView_DropDown = global::AndroidCourse.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_ListView_Menu = global::AndroidCourse.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_PopupMenu = global::AndroidCourse.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::AndroidCourse.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_PopupWindow = global::AndroidCourse.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_ProgressBar = global::AndroidCourse.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::AndroidCourse.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_RatingBar = global::AndroidCourse.Resource.Style.Widget_AppCompat_RatingBar;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::AndroidCourse.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_RatingBar_Small = global::AndroidCourse.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_SearchView = global::AndroidCourse.Resource.Style.Widget_AppCompat_SearchView;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::AndroidCourse.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_SeekBar = global::AndroidCourse.Resource.Style.Widget_AppCompat_SeekBar;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::AndroidCourse.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_Spinner = global::AndroidCourse.Resource.Style.Widget_AppCompat_Spinner;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::AndroidCourse.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::AndroidCourse.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::AndroidCourse.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::AndroidCourse.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_Toolbar = global::AndroidCourse.Resource.Style.Widget_AppCompat_Toolbar;
+			global::CharadesLibrary.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::AndroidCourse.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::CharadesLibrary.Resource.Style.Widget_Compat_NotificationActionContainer = global::AndroidCourse.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::CharadesLibrary.Resource.Style.Widget_Compat_NotificationActionText = global::AndroidCourse.Resource.Style.Widget_Compat_NotificationActionText;
+			global::CharadesLibrary.Resource.Styleable.ActionBar = global::AndroidCourse.Resource.Styleable.ActionBar;
+			global::CharadesLibrary.Resource.Styleable.ActionBar_background = global::AndroidCourse.Resource.Styleable.ActionBar_background;
+			global::CharadesLibrary.Resource.Styleable.ActionBar_backgroundSplit = global::AndroidCourse.Resource.Styleable.ActionBar_backgroundSplit;
+			global::CharadesLibrary.Resource.Styleable.ActionBar_backgroundStacked = global::AndroidCourse.Resource.Styleable.ActionBar_backgroundStacked;
+			global::CharadesLibrary.Resource.Styleable.ActionBar_contentInsetEnd = global::AndroidCourse.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::CharadesLibrary.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::AndroidCourse.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::CharadesLibrary.Resource.Styleable.ActionBar_contentInsetLeft = global::AndroidCourse.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::CharadesLibrary.Resource.Styleable.ActionBar_contentInsetRight = global::AndroidCourse.Resource.Styleable.ActionBar_contentInsetRight;
+			global::CharadesLibrary.Resource.Styleable.ActionBar_contentInsetStart = global::AndroidCourse.Resource.Styleable.ActionBar_contentInsetStart;
+			global::CharadesLibrary.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::AndroidCourse.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::CharadesLibrary.Resource.Styleable.ActionBar_customNavigationLayout = global::AndroidCourse.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::CharadesLibrary.Resource.Styleable.ActionBar_displayOptions = global::AndroidCourse.Resource.Styleable.ActionBar_displayOptions;
+			global::CharadesLibrary.Resource.Styleable.ActionBar_divider = global::AndroidCourse.Resource.Styleable.ActionBar_divider;
+			global::CharadesLibrary.Resource.Styleable.ActionBar_elevation = global::AndroidCourse.Resource.Styleable.ActionBar_elevation;
+			global::CharadesLibrary.Resource.Styleable.ActionBar_height = global::AndroidCourse.Resource.Styleable.ActionBar_height;
+			global::CharadesLibrary.Resource.Styleable.ActionBar_hideOnContentScroll = global::AndroidCourse.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::CharadesLibrary.Resource.Styleable.ActionBar_homeAsUpIndicator = global::AndroidCourse.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::CharadesLibrary.Resource.Styleable.ActionBar_homeLayout = global::AndroidCourse.Resource.Styleable.ActionBar_homeLayout;
+			global::CharadesLibrary.Resource.Styleable.ActionBar_icon = global::AndroidCourse.Resource.Styleable.ActionBar_icon;
+			global::CharadesLibrary.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::AndroidCourse.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::CharadesLibrary.Resource.Styleable.ActionBar_itemPadding = global::AndroidCourse.Resource.Styleable.ActionBar_itemPadding;
+			global::CharadesLibrary.Resource.Styleable.ActionBar_logo = global::AndroidCourse.Resource.Styleable.ActionBar_logo;
+			global::CharadesLibrary.Resource.Styleable.ActionBar_navigationMode = global::AndroidCourse.Resource.Styleable.ActionBar_navigationMode;
+			global::CharadesLibrary.Resource.Styleable.ActionBar_popupTheme = global::AndroidCourse.Resource.Styleable.ActionBar_popupTheme;
+			global::CharadesLibrary.Resource.Styleable.ActionBar_progressBarPadding = global::AndroidCourse.Resource.Styleable.ActionBar_progressBarPadding;
+			global::CharadesLibrary.Resource.Styleable.ActionBar_progressBarStyle = global::AndroidCourse.Resource.Styleable.ActionBar_progressBarStyle;
+			global::CharadesLibrary.Resource.Styleable.ActionBar_subtitle = global::AndroidCourse.Resource.Styleable.ActionBar_subtitle;
+			global::CharadesLibrary.Resource.Styleable.ActionBar_subtitleTextStyle = global::AndroidCourse.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::CharadesLibrary.Resource.Styleable.ActionBar_title = global::AndroidCourse.Resource.Styleable.ActionBar_title;
+			global::CharadesLibrary.Resource.Styleable.ActionBar_titleTextStyle = global::AndroidCourse.Resource.Styleable.ActionBar_titleTextStyle;
+			global::CharadesLibrary.Resource.Styleable.ActionBarLayout = global::AndroidCourse.Resource.Styleable.ActionBarLayout;
+			global::CharadesLibrary.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::AndroidCourse.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::CharadesLibrary.Resource.Styleable.ActionMenuItemView = global::AndroidCourse.Resource.Styleable.ActionMenuItemView;
+			global::CharadesLibrary.Resource.Styleable.ActionMenuItemView_android_minWidth = global::AndroidCourse.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::CharadesLibrary.Resource.Styleable.ActionMenuView = global::AndroidCourse.Resource.Styleable.ActionMenuView;
+			global::CharadesLibrary.Resource.Styleable.ActionMode = global::AndroidCourse.Resource.Styleable.ActionMode;
+			global::CharadesLibrary.Resource.Styleable.ActionMode_background = global::AndroidCourse.Resource.Styleable.ActionMode_background;
+			global::CharadesLibrary.Resource.Styleable.ActionMode_backgroundSplit = global::AndroidCourse.Resource.Styleable.ActionMode_backgroundSplit;
+			global::CharadesLibrary.Resource.Styleable.ActionMode_closeItemLayout = global::AndroidCourse.Resource.Styleable.ActionMode_closeItemLayout;
+			global::CharadesLibrary.Resource.Styleable.ActionMode_height = global::AndroidCourse.Resource.Styleable.ActionMode_height;
+			global::CharadesLibrary.Resource.Styleable.ActionMode_subtitleTextStyle = global::AndroidCourse.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::CharadesLibrary.Resource.Styleable.ActionMode_titleTextStyle = global::AndroidCourse.Resource.Styleable.ActionMode_titleTextStyle;
+			global::CharadesLibrary.Resource.Styleable.ActivityChooserView = global::AndroidCourse.Resource.Styleable.ActivityChooserView;
+			global::CharadesLibrary.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::AndroidCourse.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::CharadesLibrary.Resource.Styleable.ActivityChooserView_initialActivityCount = global::AndroidCourse.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::CharadesLibrary.Resource.Styleable.AlertDialog = global::AndroidCourse.Resource.Styleable.AlertDialog;
+			global::CharadesLibrary.Resource.Styleable.AlertDialog_android_layout = global::AndroidCourse.Resource.Styleable.AlertDialog_android_layout;
+			global::CharadesLibrary.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::AndroidCourse.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::CharadesLibrary.Resource.Styleable.AlertDialog_listItemLayout = global::AndroidCourse.Resource.Styleable.AlertDialog_listItemLayout;
+			global::CharadesLibrary.Resource.Styleable.AlertDialog_listLayout = global::AndroidCourse.Resource.Styleable.AlertDialog_listLayout;
+			global::CharadesLibrary.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::AndroidCourse.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::CharadesLibrary.Resource.Styleable.AlertDialog_showTitle = global::AndroidCourse.Resource.Styleable.AlertDialog_showTitle;
+			global::CharadesLibrary.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::AndroidCourse.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::CharadesLibrary.Resource.Styleable.AppCompatImageView = global::AndroidCourse.Resource.Styleable.AppCompatImageView;
+			global::CharadesLibrary.Resource.Styleable.AppCompatImageView_android_src = global::AndroidCourse.Resource.Styleable.AppCompatImageView_android_src;
+			global::CharadesLibrary.Resource.Styleable.AppCompatImageView_srcCompat = global::AndroidCourse.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::CharadesLibrary.Resource.Styleable.AppCompatImageView_tint = global::AndroidCourse.Resource.Styleable.AppCompatImageView_tint;
+			global::CharadesLibrary.Resource.Styleable.AppCompatImageView_tintMode = global::AndroidCourse.Resource.Styleable.AppCompatImageView_tintMode;
+			global::CharadesLibrary.Resource.Styleable.AppCompatSeekBar = global::AndroidCourse.Resource.Styleable.AppCompatSeekBar;
+			global::CharadesLibrary.Resource.Styleable.AppCompatSeekBar_android_thumb = global::AndroidCourse.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::CharadesLibrary.Resource.Styleable.AppCompatSeekBar_tickMark = global::AndroidCourse.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::CharadesLibrary.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::AndroidCourse.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::CharadesLibrary.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::AndroidCourse.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTextHelper = global::AndroidCourse.Resource.Styleable.AppCompatTextHelper;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::AndroidCourse.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::AndroidCourse.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::AndroidCourse.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::AndroidCourse.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::AndroidCourse.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::AndroidCourse.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::AndroidCourse.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTextView = global::AndroidCourse.Resource.Styleable.AppCompatTextView;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTextView_android_textAppearance = global::AndroidCourse.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::AndroidCourse.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::AndroidCourse.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::AndroidCourse.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::AndroidCourse.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::AndroidCourse.Resource.Styleable.AppCompatTextView_autoSizeTextType;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTextView_fontFamily = global::AndroidCourse.Resource.Styleable.AppCompatTextView_fontFamily;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTextView_textAllCaps = global::AndroidCourse.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme = global::AndroidCourse.Resource.Styleable.AppCompatTheme;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_actionBarDivider = global::AndroidCourse.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::AndroidCourse.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::AndroidCourse.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_actionBarSize = global::AndroidCourse.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::AndroidCourse.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_actionBarStyle = global::AndroidCourse.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::AndroidCourse.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::AndroidCourse.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::AndroidCourse.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_actionBarTheme = global::AndroidCourse.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::AndroidCourse.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::AndroidCourse.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::AndroidCourse.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::AndroidCourse.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::AndroidCourse.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_actionModeBackground = global::AndroidCourse.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::AndroidCourse.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::AndroidCourse.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::AndroidCourse.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::AndroidCourse.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::AndroidCourse.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::AndroidCourse.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::AndroidCourse.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::AndroidCourse.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::AndroidCourse.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::AndroidCourse.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_actionModeStyle = global::AndroidCourse.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::AndroidCourse.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::AndroidCourse.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::AndroidCourse.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::AndroidCourse.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::AndroidCourse.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::AndroidCourse.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::AndroidCourse.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::AndroidCourse.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::AndroidCourse.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::AndroidCourse.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::AndroidCourse.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::AndroidCourse.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::AndroidCourse.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::AndroidCourse.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::AndroidCourse.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::AndroidCourse.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::AndroidCourse.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_buttonStyle = global::AndroidCourse.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::AndroidCourse.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_checkboxStyle = global::AndroidCourse.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::AndroidCourse.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_colorAccent = global::AndroidCourse.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::AndroidCourse.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::AndroidCourse.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_colorControlActivated = global::AndroidCourse.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::AndroidCourse.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_colorControlNormal = global::AndroidCourse.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_colorError = global::AndroidCourse.Resource.Styleable.AppCompatTheme_colorError;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_colorPrimary = global::AndroidCourse.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::AndroidCourse.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::AndroidCourse.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_controlBackground = global::AndroidCourse.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::AndroidCourse.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_dialogTheme = global::AndroidCourse.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::AndroidCourse.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_dividerVertical = global::AndroidCourse.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::AndroidCourse.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::AndroidCourse.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_editTextBackground = global::AndroidCourse.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_editTextColor = global::AndroidCourse.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_editTextStyle = global::AndroidCourse.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::AndroidCourse.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::AndroidCourse.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::AndroidCourse.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::AndroidCourse.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::AndroidCourse.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::AndroidCourse.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::AndroidCourse.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::AndroidCourse.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::AndroidCourse.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::AndroidCourse.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::AndroidCourse.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_panelBackground = global::AndroidCourse.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::AndroidCourse.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::AndroidCourse.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::AndroidCourse.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::AndroidCourse.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::AndroidCourse.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::AndroidCourse.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::AndroidCourse.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::AndroidCourse.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_searchViewStyle = global::AndroidCourse.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_seekBarStyle = global::AndroidCourse.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::AndroidCourse.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::AndroidCourse.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::AndroidCourse.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_spinnerStyle = global::AndroidCourse.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_switchStyle = global::AndroidCourse.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::AndroidCourse.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::AndroidCourse.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::AndroidCourse.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::AndroidCourse.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::AndroidCourse.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::AndroidCourse.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::AndroidCourse.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::AndroidCourse.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::AndroidCourse.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::AndroidCourse.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::AndroidCourse.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_toolbarStyle = global::AndroidCourse.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::AndroidCourse.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::AndroidCourse.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_windowActionBar = global::AndroidCourse.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::AndroidCourse.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::AndroidCourse.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::AndroidCourse.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::AndroidCourse.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::AndroidCourse.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::AndroidCourse.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::AndroidCourse.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::AndroidCourse.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::CharadesLibrary.Resource.Styleable.AppCompatTheme_windowNoTitle = global::AndroidCourse.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::CharadesLibrary.Resource.Styleable.ButtonBarLayout = global::AndroidCourse.Resource.Styleable.ButtonBarLayout;
+			global::CharadesLibrary.Resource.Styleable.ButtonBarLayout_allowStacking = global::AndroidCourse.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::CharadesLibrary.Resource.Styleable.ColorStateListItem = global::AndroidCourse.Resource.Styleable.ColorStateListItem;
+			global::CharadesLibrary.Resource.Styleable.ColorStateListItem_alpha = global::AndroidCourse.Resource.Styleable.ColorStateListItem_alpha;
+			global::CharadesLibrary.Resource.Styleable.ColorStateListItem_android_alpha = global::AndroidCourse.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::CharadesLibrary.Resource.Styleable.ColorStateListItem_android_color = global::AndroidCourse.Resource.Styleable.ColorStateListItem_android_color;
+			global::CharadesLibrary.Resource.Styleable.CompoundButton = global::AndroidCourse.Resource.Styleable.CompoundButton;
+			global::CharadesLibrary.Resource.Styleable.CompoundButton_android_button = global::AndroidCourse.Resource.Styleable.CompoundButton_android_button;
+			global::CharadesLibrary.Resource.Styleable.CompoundButton_buttonTint = global::AndroidCourse.Resource.Styleable.CompoundButton_buttonTint;
+			global::CharadesLibrary.Resource.Styleable.CompoundButton_buttonTintMode = global::AndroidCourse.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::CharadesLibrary.Resource.Styleable.DrawerArrowToggle = global::AndroidCourse.Resource.Styleable.DrawerArrowToggle;
+			global::CharadesLibrary.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::AndroidCourse.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::CharadesLibrary.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::AndroidCourse.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::CharadesLibrary.Resource.Styleable.DrawerArrowToggle_barLength = global::AndroidCourse.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::CharadesLibrary.Resource.Styleable.DrawerArrowToggle_color = global::AndroidCourse.Resource.Styleable.DrawerArrowToggle_color;
+			global::CharadesLibrary.Resource.Styleable.DrawerArrowToggle_drawableSize = global::AndroidCourse.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::CharadesLibrary.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::AndroidCourse.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::CharadesLibrary.Resource.Styleable.DrawerArrowToggle_spinBars = global::AndroidCourse.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::CharadesLibrary.Resource.Styleable.DrawerArrowToggle_thickness = global::AndroidCourse.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::CharadesLibrary.Resource.Styleable.FontFamily = global::AndroidCourse.Resource.Styleable.FontFamily;
+			global::CharadesLibrary.Resource.Styleable.FontFamily_fontProviderAuthority = global::AndroidCourse.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::CharadesLibrary.Resource.Styleable.FontFamily_fontProviderCerts = global::AndroidCourse.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::CharadesLibrary.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::AndroidCourse.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::CharadesLibrary.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::AndroidCourse.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::CharadesLibrary.Resource.Styleable.FontFamily_fontProviderPackage = global::AndroidCourse.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::CharadesLibrary.Resource.Styleable.FontFamily_fontProviderQuery = global::AndroidCourse.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::CharadesLibrary.Resource.Styleable.FontFamilyFont = global::AndroidCourse.Resource.Styleable.FontFamilyFont;
+			global::CharadesLibrary.Resource.Styleable.FontFamilyFont_android_font = global::AndroidCourse.Resource.Styleable.FontFamilyFont_android_font;
+			global::CharadesLibrary.Resource.Styleable.FontFamilyFont_android_fontStyle = global::AndroidCourse.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::CharadesLibrary.Resource.Styleable.FontFamilyFont_android_fontWeight = global::AndroidCourse.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::CharadesLibrary.Resource.Styleable.FontFamilyFont_font = global::AndroidCourse.Resource.Styleable.FontFamilyFont_font;
+			global::CharadesLibrary.Resource.Styleable.FontFamilyFont_fontStyle = global::AndroidCourse.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::CharadesLibrary.Resource.Styleable.FontFamilyFont_fontWeight = global::AndroidCourse.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::CharadesLibrary.Resource.Styleable.LinearLayoutCompat = global::AndroidCourse.Resource.Styleable.LinearLayoutCompat;
+			global::CharadesLibrary.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::AndroidCourse.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::CharadesLibrary.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::AndroidCourse.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::CharadesLibrary.Resource.Styleable.LinearLayoutCompat_android_gravity = global::AndroidCourse.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::CharadesLibrary.Resource.Styleable.LinearLayoutCompat_android_orientation = global::AndroidCourse.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::CharadesLibrary.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::AndroidCourse.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::CharadesLibrary.Resource.Styleable.LinearLayoutCompat_divider = global::AndroidCourse.Resource.Styleable.LinearLayoutCompat_divider;
+			global::CharadesLibrary.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::AndroidCourse.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::CharadesLibrary.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::AndroidCourse.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::CharadesLibrary.Resource.Styleable.LinearLayoutCompat_showDividers = global::AndroidCourse.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::CharadesLibrary.Resource.Styleable.LinearLayoutCompat_Layout = global::AndroidCourse.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::CharadesLibrary.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::AndroidCourse.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::CharadesLibrary.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::AndroidCourse.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::CharadesLibrary.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::AndroidCourse.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::CharadesLibrary.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::AndroidCourse.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::CharadesLibrary.Resource.Styleable.ListPopupWindow = global::AndroidCourse.Resource.Styleable.ListPopupWindow;
+			global::CharadesLibrary.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::AndroidCourse.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::CharadesLibrary.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::AndroidCourse.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::CharadesLibrary.Resource.Styleable.MenuGroup = global::AndroidCourse.Resource.Styleable.MenuGroup;
+			global::CharadesLibrary.Resource.Styleable.MenuGroup_android_checkableBehavior = global::AndroidCourse.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::CharadesLibrary.Resource.Styleable.MenuGroup_android_enabled = global::AndroidCourse.Resource.Styleable.MenuGroup_android_enabled;
+			global::CharadesLibrary.Resource.Styleable.MenuGroup_android_id = global::AndroidCourse.Resource.Styleable.MenuGroup_android_id;
+			global::CharadesLibrary.Resource.Styleable.MenuGroup_android_menuCategory = global::AndroidCourse.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::CharadesLibrary.Resource.Styleable.MenuGroup_android_orderInCategory = global::AndroidCourse.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::CharadesLibrary.Resource.Styleable.MenuGroup_android_visible = global::AndroidCourse.Resource.Styleable.MenuGroup_android_visible;
+			global::CharadesLibrary.Resource.Styleable.MenuItem = global::AndroidCourse.Resource.Styleable.MenuItem;
+			global::CharadesLibrary.Resource.Styleable.MenuItem_actionLayout = global::AndroidCourse.Resource.Styleable.MenuItem_actionLayout;
+			global::CharadesLibrary.Resource.Styleable.MenuItem_actionProviderClass = global::AndroidCourse.Resource.Styleable.MenuItem_actionProviderClass;
+			global::CharadesLibrary.Resource.Styleable.MenuItem_actionViewClass = global::AndroidCourse.Resource.Styleable.MenuItem_actionViewClass;
+			global::CharadesLibrary.Resource.Styleable.MenuItem_alphabeticModifiers = global::AndroidCourse.Resource.Styleable.MenuItem_alphabeticModifiers;
+			global::CharadesLibrary.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::AndroidCourse.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::CharadesLibrary.Resource.Styleable.MenuItem_android_checkable = global::AndroidCourse.Resource.Styleable.MenuItem_android_checkable;
+			global::CharadesLibrary.Resource.Styleable.MenuItem_android_checked = global::AndroidCourse.Resource.Styleable.MenuItem_android_checked;
+			global::CharadesLibrary.Resource.Styleable.MenuItem_android_enabled = global::AndroidCourse.Resource.Styleable.MenuItem_android_enabled;
+			global::CharadesLibrary.Resource.Styleable.MenuItem_android_icon = global::AndroidCourse.Resource.Styleable.MenuItem_android_icon;
+			global::CharadesLibrary.Resource.Styleable.MenuItem_android_id = global::AndroidCourse.Resource.Styleable.MenuItem_android_id;
+			global::CharadesLibrary.Resource.Styleable.MenuItem_android_menuCategory = global::AndroidCourse.Resource.Styleable.MenuItem_android_menuCategory;
+			global::CharadesLibrary.Resource.Styleable.MenuItem_android_numericShortcut = global::AndroidCourse.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::CharadesLibrary.Resource.Styleable.MenuItem_android_onClick = global::AndroidCourse.Resource.Styleable.MenuItem_android_onClick;
+			global::CharadesLibrary.Resource.Styleable.MenuItem_android_orderInCategory = global::AndroidCourse.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::CharadesLibrary.Resource.Styleable.MenuItem_android_title = global::AndroidCourse.Resource.Styleable.MenuItem_android_title;
+			global::CharadesLibrary.Resource.Styleable.MenuItem_android_titleCondensed = global::AndroidCourse.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::CharadesLibrary.Resource.Styleable.MenuItem_android_visible = global::AndroidCourse.Resource.Styleable.MenuItem_android_visible;
+			global::CharadesLibrary.Resource.Styleable.MenuItem_contentDescription = global::AndroidCourse.Resource.Styleable.MenuItem_contentDescription;
+			global::CharadesLibrary.Resource.Styleable.MenuItem_iconTint = global::AndroidCourse.Resource.Styleable.MenuItem_iconTint;
+			global::CharadesLibrary.Resource.Styleable.MenuItem_iconTintMode = global::AndroidCourse.Resource.Styleable.MenuItem_iconTintMode;
+			global::CharadesLibrary.Resource.Styleable.MenuItem_numericModifiers = global::AndroidCourse.Resource.Styleable.MenuItem_numericModifiers;
+			global::CharadesLibrary.Resource.Styleable.MenuItem_showAsAction = global::AndroidCourse.Resource.Styleable.MenuItem_showAsAction;
+			global::CharadesLibrary.Resource.Styleable.MenuItem_tooltipText = global::AndroidCourse.Resource.Styleable.MenuItem_tooltipText;
+			global::CharadesLibrary.Resource.Styleable.MenuView = global::AndroidCourse.Resource.Styleable.MenuView;
+			global::CharadesLibrary.Resource.Styleable.MenuView_android_headerBackground = global::AndroidCourse.Resource.Styleable.MenuView_android_headerBackground;
+			global::CharadesLibrary.Resource.Styleable.MenuView_android_horizontalDivider = global::AndroidCourse.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::CharadesLibrary.Resource.Styleable.MenuView_android_itemBackground = global::AndroidCourse.Resource.Styleable.MenuView_android_itemBackground;
+			global::CharadesLibrary.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::AndroidCourse.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::CharadesLibrary.Resource.Styleable.MenuView_android_itemTextAppearance = global::AndroidCourse.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::CharadesLibrary.Resource.Styleable.MenuView_android_verticalDivider = global::AndroidCourse.Resource.Styleable.MenuView_android_verticalDivider;
+			global::CharadesLibrary.Resource.Styleable.MenuView_android_windowAnimationStyle = global::AndroidCourse.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::CharadesLibrary.Resource.Styleable.MenuView_preserveIconSpacing = global::AndroidCourse.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::CharadesLibrary.Resource.Styleable.MenuView_subMenuArrow = global::AndroidCourse.Resource.Styleable.MenuView_subMenuArrow;
+			global::CharadesLibrary.Resource.Styleable.PopupWindow = global::AndroidCourse.Resource.Styleable.PopupWindow;
+			global::CharadesLibrary.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::AndroidCourse.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::CharadesLibrary.Resource.Styleable.PopupWindow_android_popupBackground = global::AndroidCourse.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::CharadesLibrary.Resource.Styleable.PopupWindow_overlapAnchor = global::AndroidCourse.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::CharadesLibrary.Resource.Styleable.PopupWindowBackgroundState = global::AndroidCourse.Resource.Styleable.PopupWindowBackgroundState;
+			global::CharadesLibrary.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::AndroidCourse.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::CharadesLibrary.Resource.Styleable.RecycleListView = global::AndroidCourse.Resource.Styleable.RecycleListView;
+			global::CharadesLibrary.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::AndroidCourse.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::CharadesLibrary.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::AndroidCourse.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::CharadesLibrary.Resource.Styleable.SearchView = global::AndroidCourse.Resource.Styleable.SearchView;
+			global::CharadesLibrary.Resource.Styleable.SearchView_android_focusable = global::AndroidCourse.Resource.Styleable.SearchView_android_focusable;
+			global::CharadesLibrary.Resource.Styleable.SearchView_android_imeOptions = global::AndroidCourse.Resource.Styleable.SearchView_android_imeOptions;
+			global::CharadesLibrary.Resource.Styleable.SearchView_android_inputType = global::AndroidCourse.Resource.Styleable.SearchView_android_inputType;
+			global::CharadesLibrary.Resource.Styleable.SearchView_android_maxWidth = global::AndroidCourse.Resource.Styleable.SearchView_android_maxWidth;
+			global::CharadesLibrary.Resource.Styleable.SearchView_closeIcon = global::AndroidCourse.Resource.Styleable.SearchView_closeIcon;
+			global::CharadesLibrary.Resource.Styleable.SearchView_commitIcon = global::AndroidCourse.Resource.Styleable.SearchView_commitIcon;
+			global::CharadesLibrary.Resource.Styleable.SearchView_defaultQueryHint = global::AndroidCourse.Resource.Styleable.SearchView_defaultQueryHint;
+			global::CharadesLibrary.Resource.Styleable.SearchView_goIcon = global::AndroidCourse.Resource.Styleable.SearchView_goIcon;
+			global::CharadesLibrary.Resource.Styleable.SearchView_iconifiedByDefault = global::AndroidCourse.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::CharadesLibrary.Resource.Styleable.SearchView_layout = global::AndroidCourse.Resource.Styleable.SearchView_layout;
+			global::CharadesLibrary.Resource.Styleable.SearchView_queryBackground = global::AndroidCourse.Resource.Styleable.SearchView_queryBackground;
+			global::CharadesLibrary.Resource.Styleable.SearchView_queryHint = global::AndroidCourse.Resource.Styleable.SearchView_queryHint;
+			global::CharadesLibrary.Resource.Styleable.SearchView_searchHintIcon = global::AndroidCourse.Resource.Styleable.SearchView_searchHintIcon;
+			global::CharadesLibrary.Resource.Styleable.SearchView_searchIcon = global::AndroidCourse.Resource.Styleable.SearchView_searchIcon;
+			global::CharadesLibrary.Resource.Styleable.SearchView_submitBackground = global::AndroidCourse.Resource.Styleable.SearchView_submitBackground;
+			global::CharadesLibrary.Resource.Styleable.SearchView_suggestionRowLayout = global::AndroidCourse.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::CharadesLibrary.Resource.Styleable.SearchView_voiceIcon = global::AndroidCourse.Resource.Styleable.SearchView_voiceIcon;
+			global::CharadesLibrary.Resource.Styleable.Spinner = global::AndroidCourse.Resource.Styleable.Spinner;
+			global::CharadesLibrary.Resource.Styleable.Spinner_android_dropDownWidth = global::AndroidCourse.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::CharadesLibrary.Resource.Styleable.Spinner_android_entries = global::AndroidCourse.Resource.Styleable.Spinner_android_entries;
+			global::CharadesLibrary.Resource.Styleable.Spinner_android_popupBackground = global::AndroidCourse.Resource.Styleable.Spinner_android_popupBackground;
+			global::CharadesLibrary.Resource.Styleable.Spinner_android_prompt = global::AndroidCourse.Resource.Styleable.Spinner_android_prompt;
+			global::CharadesLibrary.Resource.Styleable.Spinner_popupTheme = global::AndroidCourse.Resource.Styleable.Spinner_popupTheme;
+			global::CharadesLibrary.Resource.Styleable.SwitchCompat = global::AndroidCourse.Resource.Styleable.SwitchCompat;
+			global::CharadesLibrary.Resource.Styleable.SwitchCompat_android_textOff = global::AndroidCourse.Resource.Styleable.SwitchCompat_android_textOff;
+			global::CharadesLibrary.Resource.Styleable.SwitchCompat_android_textOn = global::AndroidCourse.Resource.Styleable.SwitchCompat_android_textOn;
+			global::CharadesLibrary.Resource.Styleable.SwitchCompat_android_thumb = global::AndroidCourse.Resource.Styleable.SwitchCompat_android_thumb;
+			global::CharadesLibrary.Resource.Styleable.SwitchCompat_showText = global::AndroidCourse.Resource.Styleable.SwitchCompat_showText;
+			global::CharadesLibrary.Resource.Styleable.SwitchCompat_splitTrack = global::AndroidCourse.Resource.Styleable.SwitchCompat_splitTrack;
+			global::CharadesLibrary.Resource.Styleable.SwitchCompat_switchMinWidth = global::AndroidCourse.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::CharadesLibrary.Resource.Styleable.SwitchCompat_switchPadding = global::AndroidCourse.Resource.Styleable.SwitchCompat_switchPadding;
+			global::CharadesLibrary.Resource.Styleable.SwitchCompat_switchTextAppearance = global::AndroidCourse.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::CharadesLibrary.Resource.Styleable.SwitchCompat_thumbTextPadding = global::AndroidCourse.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::CharadesLibrary.Resource.Styleable.SwitchCompat_thumbTint = global::AndroidCourse.Resource.Styleable.SwitchCompat_thumbTint;
+			global::CharadesLibrary.Resource.Styleable.SwitchCompat_thumbTintMode = global::AndroidCourse.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::CharadesLibrary.Resource.Styleable.SwitchCompat_track = global::AndroidCourse.Resource.Styleable.SwitchCompat_track;
+			global::CharadesLibrary.Resource.Styleable.SwitchCompat_trackTint = global::AndroidCourse.Resource.Styleable.SwitchCompat_trackTint;
+			global::CharadesLibrary.Resource.Styleable.SwitchCompat_trackTintMode = global::AndroidCourse.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::CharadesLibrary.Resource.Styleable.TextAppearance = global::AndroidCourse.Resource.Styleable.TextAppearance;
+			global::CharadesLibrary.Resource.Styleable.TextAppearance_android_fontFamily = global::AndroidCourse.Resource.Styleable.TextAppearance_android_fontFamily;
+			global::CharadesLibrary.Resource.Styleable.TextAppearance_android_shadowColor = global::AndroidCourse.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::CharadesLibrary.Resource.Styleable.TextAppearance_android_shadowDx = global::AndroidCourse.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::CharadesLibrary.Resource.Styleable.TextAppearance_android_shadowDy = global::AndroidCourse.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::CharadesLibrary.Resource.Styleable.TextAppearance_android_shadowRadius = global::AndroidCourse.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::CharadesLibrary.Resource.Styleable.TextAppearance_android_textColor = global::AndroidCourse.Resource.Styleable.TextAppearance_android_textColor;
+			global::CharadesLibrary.Resource.Styleable.TextAppearance_android_textColorHint = global::AndroidCourse.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::CharadesLibrary.Resource.Styleable.TextAppearance_android_textColorLink = global::AndroidCourse.Resource.Styleable.TextAppearance_android_textColorLink;
+			global::CharadesLibrary.Resource.Styleable.TextAppearance_android_textSize = global::AndroidCourse.Resource.Styleable.TextAppearance_android_textSize;
+			global::CharadesLibrary.Resource.Styleable.TextAppearance_android_textStyle = global::AndroidCourse.Resource.Styleable.TextAppearance_android_textStyle;
+			global::CharadesLibrary.Resource.Styleable.TextAppearance_android_typeface = global::AndroidCourse.Resource.Styleable.TextAppearance_android_typeface;
+			global::CharadesLibrary.Resource.Styleable.TextAppearance_fontFamily = global::AndroidCourse.Resource.Styleable.TextAppearance_fontFamily;
+			global::CharadesLibrary.Resource.Styleable.TextAppearance_textAllCaps = global::AndroidCourse.Resource.Styleable.TextAppearance_textAllCaps;
+			global::CharadesLibrary.Resource.Styleable.Toolbar = global::AndroidCourse.Resource.Styleable.Toolbar;
+			global::CharadesLibrary.Resource.Styleable.Toolbar_android_gravity = global::AndroidCourse.Resource.Styleable.Toolbar_android_gravity;
+			global::CharadesLibrary.Resource.Styleable.Toolbar_android_minHeight = global::AndroidCourse.Resource.Styleable.Toolbar_android_minHeight;
+			global::CharadesLibrary.Resource.Styleable.Toolbar_buttonGravity = global::AndroidCourse.Resource.Styleable.Toolbar_buttonGravity;
+			global::CharadesLibrary.Resource.Styleable.Toolbar_collapseContentDescription = global::AndroidCourse.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::CharadesLibrary.Resource.Styleable.Toolbar_collapseIcon = global::AndroidCourse.Resource.Styleable.Toolbar_collapseIcon;
+			global::CharadesLibrary.Resource.Styleable.Toolbar_contentInsetEnd = global::AndroidCourse.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::CharadesLibrary.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::AndroidCourse.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::CharadesLibrary.Resource.Styleable.Toolbar_contentInsetLeft = global::AndroidCourse.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::CharadesLibrary.Resource.Styleable.Toolbar_contentInsetRight = global::AndroidCourse.Resource.Styleable.Toolbar_contentInsetRight;
+			global::CharadesLibrary.Resource.Styleable.Toolbar_contentInsetStart = global::AndroidCourse.Resource.Styleable.Toolbar_contentInsetStart;
+			global::CharadesLibrary.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::AndroidCourse.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::CharadesLibrary.Resource.Styleable.Toolbar_logo = global::AndroidCourse.Resource.Styleable.Toolbar_logo;
+			global::CharadesLibrary.Resource.Styleable.Toolbar_logoDescription = global::AndroidCourse.Resource.Styleable.Toolbar_logoDescription;
+			global::CharadesLibrary.Resource.Styleable.Toolbar_maxButtonHeight = global::AndroidCourse.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::CharadesLibrary.Resource.Styleable.Toolbar_navigationContentDescription = global::AndroidCourse.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::CharadesLibrary.Resource.Styleable.Toolbar_navigationIcon = global::AndroidCourse.Resource.Styleable.Toolbar_navigationIcon;
+			global::CharadesLibrary.Resource.Styleable.Toolbar_popupTheme = global::AndroidCourse.Resource.Styleable.Toolbar_popupTheme;
+			global::CharadesLibrary.Resource.Styleable.Toolbar_subtitle = global::AndroidCourse.Resource.Styleable.Toolbar_subtitle;
+			global::CharadesLibrary.Resource.Styleable.Toolbar_subtitleTextAppearance = global::AndroidCourse.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::CharadesLibrary.Resource.Styleable.Toolbar_subtitleTextColor = global::AndroidCourse.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::CharadesLibrary.Resource.Styleable.Toolbar_title = global::AndroidCourse.Resource.Styleable.Toolbar_title;
+			global::CharadesLibrary.Resource.Styleable.Toolbar_titleMargin = global::AndroidCourse.Resource.Styleable.Toolbar_titleMargin;
+			global::CharadesLibrary.Resource.Styleable.Toolbar_titleMarginBottom = global::AndroidCourse.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::CharadesLibrary.Resource.Styleable.Toolbar_titleMarginEnd = global::AndroidCourse.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::CharadesLibrary.Resource.Styleable.Toolbar_titleMarginStart = global::AndroidCourse.Resource.Styleable.Toolbar_titleMarginStart;
+			global::CharadesLibrary.Resource.Styleable.Toolbar_titleMarginTop = global::AndroidCourse.Resource.Styleable.Toolbar_titleMarginTop;
+			global::CharadesLibrary.Resource.Styleable.Toolbar_titleMargins = global::AndroidCourse.Resource.Styleable.Toolbar_titleMargins;
+			global::CharadesLibrary.Resource.Styleable.Toolbar_titleTextAppearance = global::AndroidCourse.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::CharadesLibrary.Resource.Styleable.Toolbar_titleTextColor = global::AndroidCourse.Resource.Styleable.Toolbar_titleTextColor;
+			global::CharadesLibrary.Resource.Styleable.View = global::AndroidCourse.Resource.Styleable.View;
+			global::CharadesLibrary.Resource.Styleable.View_android_focusable = global::AndroidCourse.Resource.Styleable.View_android_focusable;
+			global::CharadesLibrary.Resource.Styleable.View_android_theme = global::AndroidCourse.Resource.Styleable.View_android_theme;
+			global::CharadesLibrary.Resource.Styleable.View_paddingEnd = global::AndroidCourse.Resource.Styleable.View_paddingEnd;
+			global::CharadesLibrary.Resource.Styleable.View_paddingStart = global::AndroidCourse.Resource.Styleable.View_paddingStart;
+			global::CharadesLibrary.Resource.Styleable.View_theme = global::AndroidCourse.Resource.Styleable.View_theme;
+			global::CharadesLibrary.Resource.Styleable.ViewBackgroundHelper = global::AndroidCourse.Resource.Styleable.ViewBackgroundHelper;
+			global::CharadesLibrary.Resource.Styleable.ViewBackgroundHelper_android_background = global::AndroidCourse.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::CharadesLibrary.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::AndroidCourse.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::CharadesLibrary.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::AndroidCourse.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::CharadesLibrary.Resource.Styleable.ViewStubCompat = global::AndroidCourse.Resource.Styleable.ViewStubCompat;
+			global::CharadesLibrary.Resource.Styleable.ViewStubCompat_android_id = global::AndroidCourse.Resource.Styleable.ViewStubCompat_android_id;
+			global::CharadesLibrary.Resource.Styleable.ViewStubCompat_android_inflatedId = global::AndroidCourse.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::CharadesLibrary.Resource.Styleable.ViewStubCompat_android_layout = global::AndroidCourse.Resource.Styleable.ViewStubCompat_android_layout;
 		}
 		
 		public partial class Animation
@@ -2333,6 +3855,9 @@ namespace AndroidCourse
 			// aapt resource value: 0x7f080034
 			public const int FUNCTION = 2131230772;
 			
+			// aapt resource value: 0x7f08008c
+			public const int GenerateCharade = 2131230860;
+			
 			// aapt resource value: 0x7f080035
 			public const int META = 2131230773;
 			
@@ -2342,8 +3867,11 @@ namespace AndroidCourse
 			// aapt resource value: 0x7f080037
 			public const int SYM = 2131230775;
 			
-			// aapt resource value: 0x7f08009c
-			public const int action0 = 2131230876;
+			// aapt resource value: 0x7f08008b
+			public const int WordDisplay = 2131230859;
+			
+			// aapt resource value: 0x7f08009e
+			public const int action0 = 2131230878;
 			
 			// aapt resource value: 0x7f08007c
 			public const int action_bar = 2131230844;
@@ -2366,17 +3894,17 @@ namespace AndroidCourse
 			// aapt resource value: 0x7f08005a
 			public const int action_bar_title = 2131230810;
 			
-			// aapt resource value: 0x7f080099
-			public const int action_container = 2131230873;
+			// aapt resource value: 0x7f08009b
+			public const int action_container = 2131230875;
 			
 			// aapt resource value: 0x7f08007d
 			public const int action_context_bar = 2131230845;
 			
-			// aapt resource value: 0x7f0800a0
-			public const int action_divider = 2131230880;
+			// aapt resource value: 0x7f0800a2
+			public const int action_divider = 2131230882;
 			
-			// aapt resource value: 0x7f08009a
-			public const int action_image = 2131230874;
+			// aapt resource value: 0x7f08009c
+			public const int action_image = 2131230876;
 			
 			// aapt resource value: 0x7f080003
 			public const int action_menu_divider = 2131230723;
@@ -2393,11 +3921,11 @@ namespace AndroidCourse
 			// aapt resource value: 0x7f08005c
 			public const int action_mode_close_button = 2131230812;
 			
-			// aapt resource value: 0x7f08009b
-			public const int action_text = 2131230875;
+			// aapt resource value: 0x7f08009d
+			public const int action_text = 2131230877;
 			
-			// aapt resource value: 0x7f0800a9
-			public const int actions = 2131230889;
+			// aapt resource value: 0x7f0800ab
+			public const int actions = 2131230891;
 			
 			// aapt resource value: 0x7f08005d
 			public const int activity_chooser_view_content = 2131230813;
@@ -2432,8 +3960,8 @@ namespace AndroidCourse
 			// aapt resource value: 0x7f080063
 			public const int buttonPanel = 2131230819;
 			
-			// aapt resource value: 0x7f08009d
-			public const int cancel_action = 2131230877;
+			// aapt resource value: 0x7f08009f
+			public const int cancel_action = 2131230879;
 			
 			// aapt resource value: 0x7f080045
 			public const int center = 2131230789;
@@ -2447,8 +3975,8 @@ namespace AndroidCourse
 			// aapt resource value: 0x7f080073
 			public const int checkbox = 2131230835;
 			
-			// aapt resource value: 0x7f0800a5
-			public const int chronometer = 2131230885;
+			// aapt resource value: 0x7f0800a7
+			public const int chronometer = 2131230887;
 			
 			// aapt resource value: 0x7f08004e
 			public const int clip_horizontal = 2131230798;
@@ -2459,14 +3987,14 @@ namespace AndroidCourse
 			// aapt resource value: 0x7f080039
 			public const int collapseActionView = 2131230777;
 			
-			// aapt resource value: 0x7f08008d
-			public const int container = 2131230861;
+			// aapt resource value: 0x7f08008f
+			public const int container = 2131230863;
 			
 			// aapt resource value: 0x7f080066
 			public const int contentPanel = 2131230822;
 			
-			// aapt resource value: 0x7f08008e
-			public const int coordinator = 2131230862;
+			// aapt resource value: 0x7f080090
+			public const int coordinator = 2131230864;
 			
 			// aapt resource value: 0x7f08006d
 			public const int custom = 2131230829;
@@ -2480,20 +4008,20 @@ namespace AndroidCourse
 			// aapt resource value: 0x7f080060
 			public const int default_activity_button = 2131230816;
 			
-			// aapt resource value: 0x7f080090
-			public const int design_bottom_sheet = 2131230864;
+			// aapt resource value: 0x7f080092
+			public const int design_bottom_sheet = 2131230866;
+			
+			// aapt resource value: 0x7f080099
+			public const int design_menu_item_action_area = 2131230873;
+			
+			// aapt resource value: 0x7f080098
+			public const int design_menu_item_action_area_stub = 2131230872;
 			
 			// aapt resource value: 0x7f080097
-			public const int design_menu_item_action_area = 2131230871;
+			public const int design_menu_item_text = 2131230871;
 			
 			// aapt resource value: 0x7f080096
-			public const int design_menu_item_action_area_stub = 2131230870;
-			
-			// aapt resource value: 0x7f080095
-			public const int design_menu_item_text = 2131230869;
-			
-			// aapt resource value: 0x7f080094
-			public const int design_navigation_view = 2131230868;
+			public const int design_navigation_view = 2131230870;
 			
 			// aapt resource value: 0x7f080020
 			public const int disableHome = 2131230752;
@@ -2504,8 +4032,8 @@ namespace AndroidCourse
 			// aapt resource value: 0x7f080030
 			public const int end = 2131230768;
 			
-			// aapt resource value: 0x7f0800ab
-			public const int end_padder = 2131230891;
+			// aapt resource value: 0x7f0800ad
+			public const int end_padder = 2131230893;
 			
 			// aapt resource value: 0x7f08003f
 			public const int enterAlways = 2131230783;
@@ -2549,8 +4077,8 @@ namespace AndroidCourse
 			// aapt resource value: 0x7f080062
 			public const int icon = 2131230818;
 			
-			// aapt resource value: 0x7f0800aa
-			public const int icon_group = 2131230890;
+			// aapt resource value: 0x7f0800ac
+			public const int icon_group = 2131230892;
 			
 			// aapt resource value: 0x7f08003a
 			public const int ifRoom = 2131230778;
@@ -2558,8 +4086,8 @@ namespace AndroidCourse
 			// aapt resource value: 0x7f08005f
 			public const int image = 2131230815;
 			
-			// aapt resource value: 0x7f0800a6
-			public const int info = 2131230886;
+			// aapt resource value: 0x7f0800a8
+			public const int info = 2131230888;
 			
 			// aapt resource value: 0x7f080059
 			public const int italic = 2131230809;
@@ -2567,8 +4095,8 @@ namespace AndroidCourse
 			// aapt resource value: 0x7f080000
 			public const int item_touch_helper_previous_elevation = 2131230720;
 			
-			// aapt resource value: 0x7f08008c
-			public const int largeLabel = 2131230860;
+			// aapt resource value: 0x7f08008e
+			public const int largeLabel = 2131230862;
 			
 			// aapt resource value: 0x7f080049
 			public const int left = 2131230793;
@@ -2585,14 +4113,14 @@ namespace AndroidCourse
 			// aapt resource value: 0x7f080061
 			public const int list_item = 2131230817;
 			
+			// aapt resource value: 0x7f0800b0
+			public const int masked = 2131230896;
+			
+			// aapt resource value: 0x7f0800a1
+			public const int media_actions = 2131230881;
+			
 			// aapt resource value: 0x7f0800ae
-			public const int masked = 2131230894;
-			
-			// aapt resource value: 0x7f08009f
-			public const int media_actions = 2131230879;
-			
-			// aapt resource value: 0x7f0800ac
-			public const int message = 2131230892;
+			public const int message = 2131230894;
 			
 			// aapt resource value: 0x7f080031
 			public const int middle = 2131230769;
@@ -2603,8 +4131,8 @@ namespace AndroidCourse
 			// aapt resource value: 0x7f080028
 			public const int multiply = 2131230760;
 			
-			// aapt resource value: 0x7f080093
-			public const int navigation_header_container = 2131230867;
+			// aapt resource value: 0x7f080095
+			public const int navigation_header_container = 2131230869;
 			
 			// aapt resource value: 0x7f08003b
 			public const int never = 2131230779;
@@ -2615,14 +4143,14 @@ namespace AndroidCourse
 			// aapt resource value: 0x7f08001e
 			public const int normal = 2131230750;
 			
-			// aapt resource value: 0x7f0800a8
-			public const int notification_background = 2131230888;
+			// aapt resource value: 0x7f0800aa
+			public const int notification_background = 2131230890;
 			
-			// aapt resource value: 0x7f0800a2
-			public const int notification_main_column = 2131230882;
+			// aapt resource value: 0x7f0800a4
+			public const int notification_main_column = 2131230884;
 			
-			// aapt resource value: 0x7f0800a1
-			public const int notification_main_column_container = 2131230881;
+			// aapt resource value: 0x7f0800a3
+			public const int notification_main_column_container = 2131230883;
 			
 			// aapt resource value: 0x7f08004c
 			public const int parallax = 2131230796;
@@ -2648,11 +4176,11 @@ namespace AndroidCourse
 			// aapt resource value: 0x7f08004a
 			public const int right = 2131230794;
 			
-			// aapt resource value: 0x7f0800a7
-			public const int right_icon = 2131230887;
+			// aapt resource value: 0x7f0800a9
+			public const int right_icon = 2131230889;
 			
-			// aapt resource value: 0x7f0800a3
-			public const int right_side = 2131230883;
+			// aapt resource value: 0x7f0800a5
+			public const int right_side = 2131230885;
 			
 			// aapt resource value: 0x7f08000c
 			public const int save_image_matrix = 2131230732;
@@ -2726,14 +4254,14 @@ namespace AndroidCourse
 			// aapt resource value: 0x7f080025
 			public const int showTitle = 2131230757;
 			
-			// aapt resource value: 0x7f08008b
-			public const int smallLabel = 2131230859;
+			// aapt resource value: 0x7f08008d
+			public const int smallLabel = 2131230861;
 			
-			// aapt resource value: 0x7f080092
-			public const int snackbar_action = 2131230866;
+			// aapt resource value: 0x7f080094
+			public const int snackbar_action = 2131230868;
 			
-			// aapt resource value: 0x7f080091
-			public const int snackbar_text = 2131230865;
+			// aapt resource value: 0x7f080093
+			public const int snackbar_text = 2131230867;
 			
 			// aapt resource value: 0x7f080043
 			public const int snap = 2131230787;
@@ -2756,8 +4284,8 @@ namespace AndroidCourse
 			// aapt resource value: 0x7f08004b
 			public const int start = 2131230795;
 			
-			// aapt resource value: 0x7f08009e
-			public const int status_bar_latest_event_content = 2131230878;
+			// aapt resource value: 0x7f0800a0
+			public const int status_bar_latest_event_content = 2131230880;
 			
 			// aapt resource value: 0x7f080076
 			public const int submenuarrow = 2131230838;
@@ -2783,8 +4311,8 @@ namespace AndroidCourse
 			// aapt resource value: 0x7f080069
 			public const int textSpacerNoTitle = 2131230825;
 			
-			// aapt resource value: 0x7f080098
-			public const int text_input_password_toggle = 2131230872;
+			// aapt resource value: 0x7f08009a
+			public const int text_input_password_toggle = 2131230874;
 			
 			// aapt resource value: 0x7f080014
 			public const int textinput_counter = 2131230740;
@@ -2792,8 +4320,8 @@ namespace AndroidCourse
 			// aapt resource value: 0x7f080015
 			public const int textinput_error = 2131230741;
 			
-			// aapt resource value: 0x7f0800a4
-			public const int time = 2131230884;
+			// aapt resource value: 0x7f0800a6
+			public const int time = 2131230886;
 			
 			// aapt resource value: 0x7f08001c
 			public const int title = 2131230748;
@@ -2810,8 +4338,8 @@ namespace AndroidCourse
 			// aapt resource value: 0x7f08006e
 			public const int topPanel = 2131230830;
 			
-			// aapt resource value: 0x7f08008f
-			public const int touch_outside = 2131230863;
+			// aapt resource value: 0x7f080091
+			public const int touch_outside = 2131230865;
 			
 			// aapt resource value: 0x7f08000f
 			public const int transition_current_scene = 2131230735;
@@ -2840,8 +4368,8 @@ namespace AndroidCourse
 			// aapt resource value: 0x7f080016
 			public const int view_offset_helper = 2131230742;
 			
-			// aapt resource value: 0x7f0800ad
-			public const int visible = 2131230893;
+			// aapt resource value: 0x7f0800af
+			public const int visible = 2131230895;
 			
 			// aapt resource value: 0x7f08003c
 			public const int withText = 2131230780;
@@ -3210,11 +4738,11 @@ namespace AndroidCourse
 			// aapt resource value: 0x7f090010
 			public const int abc_toolbar_collapse_description = 2131296272;
 			
-			// aapt resource value: 0x7f090028
-			public const int action_settings = 2131296296;
+			// aapt resource value: 0x7f090029
+			public const int action_settings = 2131296297;
 			
-			// aapt resource value: 0x7f090027
-			public const int app_name = 2131296295;
+			// aapt resource value: 0x7f090028
+			public const int app_name = 2131296296;
 			
 			// aapt resource value: 0x7f09001e
 			public const int appbar_scrolling_view_behavior = 2131296286;
@@ -3224,6 +4752,9 @@ namespace AndroidCourse
 			
 			// aapt resource value: 0x7f090020
 			public const int character_counter_pattern = 2131296288;
+			
+			// aapt resource value: 0x7f090027
+			public const int hello = 2131296295;
 			
 			// aapt resource value: 0x7f090021
 			public const int password_toggle_content_description = 2131296289;
